@@ -78,6 +78,9 @@ ul.nav {
 	padding-left: 0px;
 	background-color: mediumpurple;
 	text-align: center;
+	font-size: 16pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 ul.nav > li {
 	display: inline-block;
