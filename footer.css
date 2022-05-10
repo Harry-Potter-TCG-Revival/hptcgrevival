@@ -12,8 +12,8 @@ so that the footer clear everything.*/
 https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
 */
 /* Style all font awesome icons */
-.fa {
-  padding: 7px;
+.fab {
+  padding: 10px;
   font-size: 15px;
   width: 20px;
   text-align: center;
@@ -22,7 +22,7 @@ https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
 }
 
 /* Add a hover effect if you want */
-.fa:hover {
+.fab:hover {
   opacity: 0.7;
 }
 
@@ -45,6 +45,6 @@ https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
 }
 /* Discard */
 .fa-discord {
-  background: orange;
+  background: darkorange;
   color: white;
 }
