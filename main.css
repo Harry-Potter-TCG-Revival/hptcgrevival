@@ -8,24 +8,7 @@ header {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-/* header formatting for horizontal butons
-#headerlist {
-	text-align: justify;
-	font-size: 20px;
-	padding-left: 30px;
-	padding-right: 30px;
-	color: green;
-}
-#headerlist li {
-	display: inline-block;
-	background-color: mediumpurple;
-}
-#headerlist:after {
-	content: '';
-	width: 95%;
-	display: inline-block;
-}
-*/
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -87,7 +70,7 @@ ul.nav > li {
 	padding: 10px 20px;
 }
 ul.nav >li:hover {
-	background-color: whitesmoke;
+	background-color: black;
 }
 ul.nav >li > a{
 	color: white;
@@ -128,7 +111,7 @@ p {
 	margin-right: auto;
 	margin-left: auto;
 	padding: 20px;
-	width: 70%;
+	width: 50%;
 	border: 5px solid mediumpurple;
 	border-radius: 25px;
 }
