@@ -23,6 +23,18 @@ https://stackoverflow.com/questions/55383316/font-awesome-discord-icon-wont-show
   border-radius: 50%;
 }
 
+
+.logo {
+  text-align: left;
+  float: left;
+  padding-left: 10px;
+}
+.socials {
+  text-align: right;
+  float: right;
+  padding-right: 10px;
+}
+
 /* Add a hover effect if you want */
 .fab:hover {
   opacity: 0.7;
