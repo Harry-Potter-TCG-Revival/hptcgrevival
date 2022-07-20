@@ -3,15 +3,14 @@ header {
 	text-align: center;
 	background: mediumpurple;
 	color: white;
-	font-size: 15px;
+	font-size: 10px;
 	width: 100%;
-	padding-top: 5px;
-	padding-bottom: 5px;
 	position: fixed;
-	height: 20px;
 }
-
-html, body {
+html {
+	position: relative;
+}
+body {
 	margin: 0;
 	padding: 0;
 	position: relative;
@@ -66,9 +65,12 @@ nav {
 	padding-left: 0px;
 	background-color: mediumpurple;
 	text-align: center;
-	font-size: 16pt;
+	font-size: 17pt;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	vertical-align: baseline;
 }
 nav > ul, .submenu {
 	list-style-type: none;
