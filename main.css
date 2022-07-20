@@ -8,7 +8,7 @@ header {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	position: fixed;
-	height: 40px;
+	height: 20px;
 }
 
 html, body {
@@ -57,11 +57,12 @@ h2 {
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 }
-ul {
-	list-style: none;
-}
+
+
+
 /* for the horizontal nav buttons on home page */
-ul.nav {
+nav {
+	list-style-type: none;
 	padding-left: 0px;
 	background-color: mediumpurple;
 	text-align: center;
@@ -69,17 +70,58 @@ ul.nav {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
-ul.nav > li {
+nav > ul, .submenu {
+	list-style-type: none;
+}
+nav > ul > li {
 	display: inline-block;
 	padding: 10px 20px;
+	position: relative;
 }
-ul.nav >li:hover {
+nav > ul > li:hover {
 	background-color: black;
+	border-radius: 3px;
+	transition: background 300ms linear; /*delete to remove delayed black background*/
 }
-ul.nav >li > a{
+nav > ul > li > a{
 	color: white;
 	text-decoration: none;
+	padding: 10px 20px;
 }
+nav > ul > li > a > span {
+	font-weight: bold;
+	font-size: 25px;
+	position: relative;
+
+}
+nav > ul > li:hover .submenu {
+	display: block;
+	opacity: 1;/*delete with below sections noted lines*/
+}
+
+/* submenu styles */
+ul.submenu {
+	position:  absolute; top: 43px; left: 0px;
+	background-color: black;
+	display: block; opacity: 0; /*delete this and following line and change display to none. this creates a gradient appearing eff for the dropdown*/
+	transition: opacity 300ms linear; /*delete with above line*/
+	text-align: center;
+	border-radius: 3px;
+}
+ul.submenu li {
+	padding: 10px 0px;
+}
+ul.submenu a {
+	padding: 10px 0px;
+}
+ul.submenu > span {
+	position: absolute; top: 0px; left: 0px;
+	font-size: 30px; color: black;
+}
+
+/*end horizontal nav coding*/
+
+
 
 table {
 	table-layout: fixed;
