@@ -56,7 +56,9 @@ h2 {
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 }
-
+ul {
+	list-style: none;
+}
 
 
 /* for the horizontal nav buttons on home page */
@@ -74,31 +76,36 @@ nav {
 }
 nav > ul, .submenu {
 	list-style-type: none;
+	text-align: center;
 }
 nav > ul > li {
 	display: inline-block;
 	padding: 10px 20px;
 	position: relative;
+	text-align: center;
 }
 nav > ul > li:hover {
 	background-color: black;
 	border-radius: 3px;
+	text-align: center;
 	transition: background 300ms linear; /*delete to remove delayed black background*/
 }
 nav > ul > li > a{
 	color: white;
 	text-decoration: none;
 	padding: 10px 20px;
+	text-align: center;
 }
 nav > ul > li > a > span {
 	font-weight: bold;
 	font-size: 25px;
 	position: relative;
-
+	text-align: center;
 }
 nav > ul > li:hover .submenu {
 	display: block;
 	opacity: 1;/*delete with below sections noted lines*/
+	text-align: center;
 }
 
 /* submenu styles */
@@ -112,9 +119,11 @@ ul.submenu {
 }
 ul.submenu li {
 	padding: 10px 0px;
+	text-align: center;
 }
 ul.submenu a {
 	padding: 10px 0px;
+	text-align: center;
 }
 ul.submenu > span {
 	position: absolute; top: 0px; left: 0px;
