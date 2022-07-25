@@ -59,6 +59,14 @@ h2 {
 ul {
 	list-style: none;
 }
+iframe {
+	width: 64%;
+	height: 700px;
+	border: 5px solid black;
+	margin-left: 18%;
+	margin-right: 18%;
+}
+
 
 
 /* for the horizontal nav buttons on home page */
@@ -83,6 +91,7 @@ nav > ul > li {
 	padding: 10px 20px;
 	position: relative;
 	text-align: center;
+	width: 160px;
 }
 nav > ul > li:hover {
 	background-color: black;
@@ -120,6 +129,7 @@ ul.submenu {
 ul.submenu li {
 	padding: 10px 0px;
 	text-align: center;
+	width: 160px;
 }
 ul.submenu a {
 	padding: 10px 0px;
