@@ -24,7 +24,6 @@ def get_module_lines(module_name):
 
 
 def compile(file_name):
-	print('compiling ' + file_name)
 	new_file_lines = []
 
 	with open(file_name, 'r') as file:
@@ -49,7 +48,7 @@ def main():
 	for module_name in modules:
 		module_dict[module_name] = MODULE_DIR + '/' + module_name
 
-	files = [f for f in os.listdir() if os.path.isfile(f) and '.git' not in f]
+	files = [f for f in os.listdir() if os.path.isfile(f) and '.git' not in f and '.py ' not in f]
 	for file_name in files:
 		if file_name.split('.')[-1] == 'html':
 			compile(file_name)
