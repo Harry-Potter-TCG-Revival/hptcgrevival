@@ -1,27 +1,27 @@
 <header>
 	<link rel="stylesheet" type="text/css" href="main.css" />
 	<link rel="stylesheet" type="text/css" href="dropdown.css" />
-	<link rel="stylesheet" type="text/css" href="footer.css" />
-	<nav>
-	<ul style="background-color: mediumpurple;">
-			<li><b><a href="HomePage.html">Home</a></b></li>
-			<li><a href="#">Events</a>
-				<ul class="submenu">
-					<li><a href="EventsPage.html">Event Info</a></li>
-					<li><a href="GenCon.html">GenCon</a></li>
-					<li><a href="tournamentrules.html">Tournament Rules</a></li>
-				</ul>
-			</li>
-			<li><a href="HowToPlayPage.html">How to Play</a></li>
-			<!--- <li><a href="DecksPage.html">Deck Library</a></li> --->
-			<li><a href="#">Resources</a>
-				<ul class="submenu">
-					<li><a href="ResourcesPage.html">Resources</a></li>
-					<li><a href="rules.html">Rules</a></li>
-				</ul>
-			</li>
-			<li><a href="https://accio.cards" target="_blank">Accio</a></li>
-			<li><a href="AboutPage.html">About</a></li>
-	</ul>
-	</nav>
+	<link rel="stylesheet" type="text/css" href="footer.css" />	
+		<div class="navbar">
+			<a href="HomePage.html">Home</a>
+			<div class="dropdown">
+				<button class="dropbtn">Events</button>
+			<div class="dropdown-content">
+				<a href="EventsPage.html">Event Info</a>
+				<a href="GenCon.html">GenCon</a>
+				<a href="tournamentrules.html">Tournamnet Rules</a>
+				<a href="lists.html">B&R, Errata</a>
+			</div>
+			</div>
+			<div class="dropdown">
+				<button class="dropbtn">Resources</button>
+			<div class="dropdown-content">
+				<a href="ResourcesPage.html">Resources</a>
+				<a href="decks.html">Deck Lists</a>
+				<a href="rules.html">Rule Book</a>
+			</div>
+			</div>
+			<a href="https://accio.cards" target="_blank">Accio</a>
+			<a href="about.html">About</a>
+		</div>
 </header>
