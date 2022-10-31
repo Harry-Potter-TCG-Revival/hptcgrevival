@@ -33,6 +33,7 @@ https://stackoverflow.com/questions/55383316/font-awesome-discord-icon-wont-show
   text-align: right;
   float: right;
   padding-right: 30px;
+  vertical-align: middle;
 }
 
 /* Add a hover effect if you want */
