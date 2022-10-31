@@ -15,10 +15,13 @@ https://stackoverflow.com/questions/55383316/font-awesome-discord-icon-wont-show
 */
 /* Style all font awesome icons */
 .fab {
-  padding: 10px;
-  font-size: 15px;
-  width: 20px;
-  text-align: center;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  padding: 12px;
+  font-size: 20px;
+  width: 19px;
+  height: 19px;
   text-decoration: none;
   border-radius: 50%;
 }
@@ -30,10 +33,13 @@ https://stackoverflow.com/questions/55383316/font-awesome-discord-icon-wont-show
   padding-left: 30px;
 }
 .socials {
-  text-align: right;
+  width: 200px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   float: right;
   padding-right: 30px;
-  vertical-align: middle;
 }
 
 /* Add a hover effect if you want */
