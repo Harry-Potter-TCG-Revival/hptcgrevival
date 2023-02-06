@@ -1,15 +1,17 @@
 <!doctype html>
  <html>
-<header>
-	<link rel="stylesheet" type="text/css" href="main.css" />
+ <header>
+ 	<link rel="stylesheet" type="text/css" href="main.css" />
+ 	<link rel="stylesheet" type="text/css" href="dropdown.css" />
+    <link rel="stylesheet" type="text/css" href="table.css" />
  	<link rel="stylesheet" type="text/css" href="footer.css" />
-		<div class="navbar">
+	<div class="navbar">
  			<a href="index.html">Home</a>
  			<div class="dropdown">
  				<button class="dropbtn">Events</button>
  			<div class="dropdown-content">
  				<a href="EventsPage.html">Event Info</a>
- 				<a href="gencon.html">GenCon</a>
+ 				<a href="GenCon.html">GenCon</a>
  				<a href="tournamentrules.html">Tournamnet Rules</a>
  				<a href="lists.html">B&R, Errata</a>
  			</div>
@@ -25,69 +27,625 @@
  			<a href="https://accio.cards" target="_blank">Accio</a>
  			<a href="about.html">About</a>
  		</div>
-</header>
-<div id="page-container">
-	<body>
-	</br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br>
-		<div style="font-size: 40;">Coming Soon!
-		</div>
-		</br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br></br>
-	</br>
-	</br>
-	</br>
+ 	</header>
 
-	</body>
+    <body>
+        <div style="height: 40px;"></div>
+        <div id="page_description">
+        Below are decks submitted by community members. You can sort the table by any of the headers by clicking on the header, and you'll find the deck list by clicking on the deck title.
+        </div>
+        <script src="table.js"></script>
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Starting Characters...">
+        </br>
+        <table id="deckTable">
+            <tr>
+                <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:--> 
+                <th onclick="sortTable(0)">Starting Character</th>
+                <th onclick="sortTable(1)">Deck Name</th>
+                <th onclick="sortTable(2)" style="width:30px">Set</th>
+                <th onclick="sortTable(3)" style="width:100px">Event</th>
+                <th onclick="sortTable(4)">Contributor</th>
+            </tr>
+            <tr>
+                <td>Albus Dumbledore (AAH)</td>
+                <td><a href="decks/AlbusDumbledore_Carter.txt">Dumbledore's Control</a></td>
+                <td>SOH</td>
+                <td>WW</td>
+                <td>@Carter/coaxkia#0732</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/DracoMalfoySlytherin_Friz3.txt">Malfoy's Quidditch/Potion Items</a></td>
+                <td>SOH</td>
+                <td>WW</td>
+                <td>@tydeFriz#4941</td>
+            </tr>
+            <tr>
+                <td>Fred and George, Beaters (POA)</td>
+                <td><a href="decks/FredandGeorgeBeaters_Drew.txt">Beaters' Items</a></td>
+                <td>SOH</td>
+                <td>WW</td>
+                <td>@ramen noodle#5290</td>
+            </tr>
+            <tr>
+                <td>Fred and George, Beaters (POA)</td>
+                <td><a href="decks/FredandGeorgeBeaters_Sammy.txt">Beaters' Transfiguration Items</a></td>
+                <td>SOH</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Professor Filius Flitwick (BS)</td>
+                <td><a href="decks/RevivalFlitwick_friz2.txt">Dumb Stuff (1st)</a></td>
+                <td>POA</td>
+                <td>TMarch2022</td>
+                <td>Friz</td>
+            </tr>
+            <tr>
+                <td>Professor Rubeus Hagrid (POA)</td>
+                <td><a href="decks/RevivalHagrid_Michael.txt">"Interestin' Creatures" (2nd)</a></td>
+                <td>POA</td>
+                <td>TMarch2022</td>
+                <td>Michael C.</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/RevivalDracoMalfoySlytherin_Rhys.txt">VTJ Items (3rd)</a></td>
+                <td>POA</td>
+                <td>TMarch2022</td>
+                <td>Rhys</td>
+            </tr>
+            <tr>
+                <td>Angelina Johnson (AAH)</td>
+                <td><a href="decks/RevivalAngelinaJohnson_michaelp.txt">Quidditch-Creatures (4th)</a></td>
+                <td>POA</td>
+                <td>TMarch2022</td>
+                <td>Michael P.</td>
+            </tr>
+            <tr>
+                <td>Sirius Black (POA)</td>
+                <td><a href="decks/RevivalSiriusBlack_red.txt">Control (5th)</a></td>
+                <td>POA</td>
+                <td>TMarch2022</td>
+                <td>Red</td>
+            </tr>
+            <tr>
+                <td>Professor Rubeus Hagrid (POA)</td>
+                <td><a href="decks/RevivalProfHagrid_douglasc.txt">Owl Tribal (6th)</a></td>
+                <td>POA</td>
+                <td>TMarch2022</td>
+                <td>Douglas C.</td>
+            </tr>
+            <tr>
+                <td>Angelina Johnson (AAH)</td>
+                <td><a href="decks/AngelinaJohnson_Barbosa.txt">Angelina's Charms Match</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@Barbosa_Tardin#1371</td>
+            </tr>
+            <tr>
+                <td>Prof. Gilderoy Lockhart (HOS)</td>
+                <td><a href="decks/GilderoyLockhart_Sammy.txt">Lockhart's Charms Creatures</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Prof. Rubeus Hagrid (POA)</td>
+                <td><a href="decks/ProfRubeusHagrid_Michael.txt">Hagrid's Pets</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@elvisthegamecollector#5560</td>
+            </tr>
+            <tr>
+                <td>Prof. Rubeus Hagrid (POA)</td>
+                <td><a href="decks/ProfRubeusHagrid_Parker.txt">Hagrid's Pets</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@Parker#4915</td>
+            </tr>
+            <tr>
+                <td>Prof. Rubeus Hagrid (POA)</td>
+                <td><a href="decks/ProfRubeusHagrid_Carter.txt">Hagrid's Pets</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@Carter/coaxkia#0732</td>
+            </tr>
+            <tr>
+                <td>Prof. Rubeus Hagrid (POA)</td>
+                <td><a href="decks/ProfRubeusHagrid_Red.txt">Hagrid's Pets</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@fedorov#9245</td>
+            </tr>
+            <tr>
+                <td>Prof. Rubeus Hagrid (POA)</td>
+                <td><a href="decks/ProfRubeusHagrid_Sammy.txt">Hagrid's Pets</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Sirius Black (POA)</td>
+                <td><a href="decks/SiriusBlack_Red.txt">Sirius Creatures</a></td>
+                <td>POA</td>
+                <td>WW</td>
+                <td>@fedorov#9245</td>
+            </tr>
+            <tr>
+                <td>Prof. Gilderoy Lockhart (HOS)</td>
+                <td><a href="decks/GilderoyLockhart_Sammy2.txt">Lockhart's Transfiguration Creatures</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ProfMinervaMcGonagall_Lebkoslav.txt">McGonagall's Big Control</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@lebkoslav#1547</td>
+            </tr>
+            <tr>
+                <td>Prof. Severus Snape (BS)</td>
+                <td><a href="decks/ProfSeverusSnape_Lebkoslav.txt">Snape's Bulgeye</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@lebkoslav#1547</td>
+            </tr>
+            <tr>
+                <td>Prof. Severus Snape (BS)</td>
+                <td><a href="decks/ProfSeverusSnape_Sammy.txt">Snape's Quidditch Charms</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Seamus Finnigan (QC)</td>
+                <td><a href="decks/SeamusFinnigan_MDiaz.txt">Seamus Creatures</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@mdiaz1#8648</td>
+            </tr>
+            <tr>
+                <td>Hannah Abbott (BS)</td>
+                <td><a href="decks/RevivalHannahAbbott_Jakob.txt">VTJ Control (1st)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@BraidsMamma</td>
+            </tr>
+            <tr>
+                <td>Seamus Finnigan (QC)</td>
+                <td><a href="decks/RevivalSeamusFinnigan_mdiaz.txt">Character Snuffling Combo (2nd)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@mdiaz1</td>
+            </tr>
+            <tr>
+                <td>Madam Rolanda Hooch (QC)</td>
+                <td><a href="decks/RevivalMadamHooch_Shea.txt">Hooch's Creatures (3rd)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@M1nutemanRen</td>
+            </tr>
+            <tr>
+                <td>Harry Triumphant (AAH)</td>
+                <td><a href="decks/RevivalHarryTriumphant_Huamin.txt">Adventure Control (4th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@lostrian</td>
+            </tr>
+            <tr>
+                <td>Hermione Granger (BS)</td>
+                <td><a href="decks/RevivalHermioneGranger_lebkoslav.txt">Hermione's Big Creatures (5th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@lebkoslav</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/RevivalDracoMalfoySlytherin_alberto.txt">VTJ Items (6th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@bboy duba 95</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/RevivalDracoMalfoySlytherin_elder.txt">Quidditch-Creature Items (7th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@elder</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/RevivalMcGonagall_hadhayosh.txt">Creature Aggro (8th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@hadhayosh</td>
+            </tr>
+            <tr>
+                <td>Prof. Severus Snape (BS)</td>
+                <td><a href="decks/RevivalSnape_Parker.txt">Character Control (9th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@parker</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/RevivalMcGonagall_elvis.txt">Creature Aggro (10th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@elvisthegamecollector</td>
+            </tr>
+            <tr>
+                <td>Angelina Johnson (AAH)</td>
+                <td><a href="decks/RevivalAngelinaJohnson_Geldwin.txt">Quidditch Aggro (11th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@geldwin</td>
+            </tr>
+            <tr>
+                <td>Professor Filius FLitwick (BS)</td>
+                <td><a href="decks/RevivalFlitwick_johann.txt">Charms Creatures (12th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@johann</td>
+            </tr>
+            <tr>
+                <td>Madam Rolanda Hooch (QC)</td>
+                <td><a href="decks/RevivalHooch_gregster297.txt">4-Color Aggro (13th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@gregster297</td>
+            </tr>
+            <tr>
+                <td>Arthur Weasley (COS)</td>
+                <td><a href="decks/RevivalArthurWeasley_Ken.txt">Quidditch-Transfiguration Items (14th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@Ken_the_human</td>
+            </tr>
+            <tr>
+                <td>Professor Filius Flitwick (BS)</td>
+                <td><a href="decks/RevivalFlitwick_Friz.txt">Dumb Stuff (15th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@tydeFriz</td>
+            </tr>
+            <tr>
+                <td>Oliver Wood (QC)</td>
+                <td><a href="decks/RevivalOliverWood_craig.txt">Quidditch Aggro (16th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@urawizard</td>
+            </tr>
+            <tr>
+                <td>Oliver Wood (QC)</td>
+                <td><a href="decks/RevivalSeamusFinnigan_brian.txt">Characters VTJ (17th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@Brian1996</td>
+            </tr>
+            <tr>
+                <td>Professor Gilderoy Lockhart (HOS)</td>
+                <td><a href="decks/RevivalGilderoyLockhart_goldensun.txt">Hand Control Creatures (18th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@goldensun</td>
+            </tr>
+            <tr>
+                <td>Armando Dippet (HOS)</td>
+                <td><a href="decks/RevivalArmandoDippet_Sammy2.txt">House Tribal (19th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@sammy</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/RevivalMcGonagall_slugman.txt">Big Quidditch Spells (20th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@slugman</td>
+            </tr>
+            <tr>
+                <td>Armando Dippet (HOS)</td>
+                <td><a href="decks/RevivalArmandoDippet_bruno.txt">House Tribal (21st)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@Bruno Rago</td>
+            </tr>
+            <tr>
+                <td>Madam Rolanda Hooch (QC)</td>
+                <td><a href="decks/RevivalHooch_doug.txt">Quidditch Good Stuff (22nd)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@abtsilence</td>
+            </tr>
+            <tr>
+                <td>Madam Promfrey (AAH)</td>
+                <td><a href="decks/RevivalPomfrey_donovan.txt">Creatures (23rd)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@donovanj.durfee</td>
+            </tr>
+            <tr>
+                <td>Katie Bell (HOS)</td>
+                <td><a href="decks/RevivalKatieBell_hent.txt">Quidditch (24th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@hent0076</td>
+            </tr>
+            <tr>
+                <td>Madam Rolanda Hooch (QC)</td>
+                <td><a href="decks/RevivalHooch_dane.txt">Quidditch-Transfiguration Control (25th)</a></td>
+                <td>HOS</td>
+                <td>TMay2021</td>
+                <td>@daneoid</td>
+            </tr>
+            <tr>
+                <td>Angelina Jonhson (AAH)</td>
+                <td><a href="decks/AngelinaJohnson_Morrell.txt">Angelina's Riding the Centaur Match</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@hadhayosh#2264</td>
+            </tr>
+            <tr>
+                <td>Angelina Jonhson (AAH)</td>
+                <td><a href="decks/AngelinaJohnson_pesh.txt">Angelina's Transfiguration Match</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@pesh021#8313</td>
+            </tr>
+            <tr>
+                <td>Colin Creevey (COS)</td>
+                <td><a href="decks/ColinCreevey_Huamin.txt">Colin's Draw</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@lostrian#1553</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/DracoMalfoySlytherin_Friz1.txt">Draco's Items</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@tydePriz#4941</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/DracoMalfoySlytherin_Morrell.txt">Malfoy's Characters</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@hadhayosh#2264</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/DracoMalfoySlytherin_Sammy.txt">Malfoy's Bigger Items</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Draco Malfoy, Slytherin (DA)</td>
+                <td><a href="decks/DracoMalfoySlytherin_Friz2.txt">Malfoy's Potion Items</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@tydeFriz#4941</td>
+            </tr>
+            <tr>
+                <td>Harry Potter (BS)</td>
+                <td><a href="decks/HarryPotter_Huamin.txt">Harry's Potionfiguration</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@lostian#1553</td>
+            </tr>
+            <tr>
+                <td>Harry Triumphant (AAH)</td>
+                <td><a href="decks/HarryTriumphant_Huamin.txt">Harry's Control</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@lostian#1553</td>
+            </tr>
+            <tr>
+                <td>Hermione Granger (BS)</td>
+                <td><a href="decks/HermioneGranger_Sammy.txt">Hermione's Big Potions</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Lee Jordan (DA)</td>
+                <td><a href="decks/LeeJordan_Stefan.txt">Lee's Cheering</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@Stefan#2475</td>
+            </tr>
+            <tr>
+                <td>Madam Hooch (QC)</td>
+                <td><a href="decks/MadamHooch_Michael.txt">Hooch's Game</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@elvisthegamecollector#5560</td>
+            </tr>
+            <tr>
+                <td>Prof. Gilderoy Lockhart (HOS)</td>
+                <td><a href="decks/GilderoyLockhart_Stefan.txt">Lockhart's Quidditch Creatures</a></td>
+                <td>HOS</td>
+                <td>WW</td>
+                <td>@Stefan#2475</td>
+            </tr>
+            
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-	
+
+            <tr>
+                <td>Draco Malfoy (BS)</td>
+                <td><a href="decks/ClassicDracoMalfoy_Lostrian.txt">Malfoy Creature Aggro</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@Lostrian#1553</td>
+            </tr>
+            <tr>
+                <td>Fred & George Weasley (QC)</td>
+                <td><a href="decks/ClassFandG_Stefan.txt">Adventure Snuffling Combo</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@Stefan#2475</td>
+            </tr>
+            <tr>
+                <td>Fred & George Weasley (QC)</td>
+                <td><a href="decks/ClassicFandG_Lostrian.txt">Adventure Match</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@Lostrian#1553</td>
+            </tr>
+            <tr>
+                <td>Ginny Weasley (COS)</td>
+                <td><a href="decks/ClassicGinnyWeasley_mdiaz.txt">Snuffling Combo</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@mdiaz#8648</td>
+            </tr>
+            <tr>
+                <td>Hannah Abbott (BS)</td>
+                <td><a href="decks/ClassicHannahAbbott_elder.txt">Charms Match</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@elder#6141</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_elvisthecollector.txt">McGonagall Creatures</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@elvisthegamecollector#5560</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_Sammy.txt">McGonagall Creatures</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@vdsams#8927</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_Parker.txt">McGonagall Creatures</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@Parker#4915</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_Frankie.txt">McGonagall Creatures</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@FRANKIEFRIDAY#3167</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_Frankie2.txt">McGonagall VTJ</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@FRANKIEFRIDAY#3167</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_Stefan2.txt">McGonagall Match Creatures</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@Stefan#2475</td>
+            </tr>
+            <tr>
+                <td>Ron Weasley (BS)</td>
+                <td><a href="decks/ClassicRonWeasley_Frankie.txt">Ron Snuffling Combo</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@FRANKIEFRIDAY#3167</td>
+            </tr>
+            <tr>
+                <td>Seamus Finnigan (QC)</td>
+                <td><a href="decks/ClassicSeamusFinnigan_mdiaz.txt">Seamus VTJ</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@mdiaz#8648</td>
+            </tr>
+            <tr>
+                <td>Seamus Finnigan (QC)</td>
+                <td><a href="decks/ClassicSeamusFinnigan_Frankie2.txt">Seamus Creature Adventure Control</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@FRANKIEFRIDAY#3267</td>
+            </tr>
+            <tr>
+                <td>Seamus Finnigan (QC)</td>
+                <td><a href="decks/ClassicSeamusFinnigan_mdiaz2.txt">Seamus VTJ Adventures</a></td>
+                <td>O5</td>
+                <td>WW</td>
+                <td>@mdiaz1#8648</td>
+            </tr>
+            <tr>
+                <td>Ron Weasley (BS)</td>
+                <td><a href="decks/ClassicRonWealsey_parker1.txt">Character-Control VTJ (1st)</a></td>
+                <td>O5</td>
+                <td>TJune2022</td>
+                <td>Parker</td>
+            </tr>
+            <tr>
+                <td>Ron Weasley (BS)</td>
+                <td><a href="decks/ClassicRonWeasley_geldwin.txt">Character Control (2nd)</a></td>
+                <td>O5</td>
+                <td>TJune2022</td>
+                <td>Geldwin</td>
+            </tr>
+            <tr>
+                <td>Fred & George Weasley (QC)</td>
+                <td><a href="decks/FandGWeasley_hadroncollision.txt">Adventure Control - Creatures(3rd)</a></td>
+                <td>O5</td>
+                <td>TJune2022</td>
+                <td>Hadroncollision</td>
+            </tr>
+            <tr>
+                <td>Fred & George Weasley (QC)</td>
+                <td><a href="decks/ClassicFandGWeasley_coaxkia.txt">Adventure Control - Craeture Aggro (4th - tie)</a></td>
+                <td>O5</td>
+                <td>TJune2022</td>
+                <td>coaxkia</td>
+            </tr>
+            <tr>
+                <td>Fred & George Weasley (QC)</td>
+                <td><a href="decks/ClassicFandGWeasley_lostrian.txt">Adventure Control (4th - tie)</a></td>
+                <td>O5</td>
+                <td>TJune2022</td>
+                <td>Lostrian</td>
+            </tr>
+            <tr>
+                <td>Prof. Minerva McGonagall (QC)</td>
+                <td><a href="decks/ClassicMcGonagall_ryon.txt">Creatures (6th)</a></td>
+                <td>O5</td>
+                <td>TJune2022</td>
+                <td>RandalfTheGrey</td>
+            </tr>
+        </table>
+        <div id="general">*O5 is an abbreviation for "Original 5"; these are Classic decks consisting of only the original 5 sets and played during a Classic event.
+        </br>*WW is an abbreviation for Wizarding Wars; weekly events for players to test decks in a laid back, organized play.
+        </br>*GC is an abbreviatin for GenCon; an annual event in Indianapolis where HPTCG Revival first started organizing.
+        </br>*T[DATE] means the deck is from a Tournament during the month and year listed.</div>
+        <div id="general">Want to submit a deck list? Join our discord channel and post your deck in either the Revival Discussion channel or the Classic Discussion channel.</div>
+        <p style="margin-left: 28%;"><img src="Monsterbook.jpg" style="width:60%"></br>*Artwork by Paolo Maria Breda</p>
+        <div style="height: 60px;"></div>
+    </body>
+
 <footer>
-		<div id="footer">
-			<div class="logo">Harry Potter TCG Revival
-			</div>
-		<!--icon library from w3schools-->
-			<div class="socials">
-				<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-				<a href="https://www.facebook.com/groups/harrypottertcg" class="fab fa-facebook" target="_blank"></a>
-				<a href="https://www.instagram.com/harrypottertcg/?hl=en" class="fab fa-instagram" target="_blank"></a>
-				<a href="https://twitter.com/harrypottertcg" class="fab fa-twitter" target="_blank"></a>
-				<a href="https://discord.gg/EKJSXBC" class="fab fa-discord" target="_blank"></a>
-			</div>
-		</div>
-</footer>	
-</div>
+        <div id="footer">
+            <div class="logo">Harry Potter TCG Revival
+            </div>
+        <!--icon library from w3schools-->
+            <div class="socials">
+                <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+                <a href="https://www.facebook.com/groups/harrypottertcg" class="fab fa-facebook" target="_blank"></a>
+                <a href="https://www.instagram.com/harrypottertcg/?hl=en" class="fab fa-instagram" target="_blank"></a>
+                <a href="https://twitter.com/harrypottertcg" class="fab fa-twitter" target="_blank"></a>
+                <a href="https://discord.gg/EKJSXBC" class="fab fa-discord" target="_blank"></a>
+            </div>
+        </div>
+</footer>   
 </html>
+    </html>
