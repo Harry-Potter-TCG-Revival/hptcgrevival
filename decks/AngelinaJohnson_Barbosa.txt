@@ -1,0 +1,18 @@
+//deck
+11 Quidditch (aah)
+11 Charms (aah)
+4 Muddy Practice (aah)
+4 Three-Month-Long Match (da)
+4 Bludger (qc)
+3 Dragon Heart Wand (bs)
+3 Nimbus Two Thousand (qc)
+4 Fouled! (qc)
+4 Catching Apples (cos)
+4 Ouch! (qc)
+4 New Slytherin Seeker (hos)
+4 Catch the Snitch (qc) 
+
+//sideboard
+2 Argus Filch (aah)
+4 Fast Swerve (poa)
+4 Power Play (qc)

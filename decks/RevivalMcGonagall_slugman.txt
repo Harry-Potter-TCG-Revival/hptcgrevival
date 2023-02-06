@@ -1,0 +1,19 @@
+//deck-1
+3 Out of Control
+4 Loop the Loops
+4 Flying Laps
+4 Strategy Session
+2 Mid-air Collision
+4 Alchemy
+1 Penalty Shot
+4 Dodging The Bludger
+1 Philosopher's Stone
+2 Aparecium
+4 Quidditch Pitch
+27 Quidditch
+
+//sideboard-1
+4 Essential Knowledge Test
+2 Table Trouble
+2 Pep Talk
+2 Penalty Shot

@@ -1,0 +1,24 @@
+//deck
+12 Care of Magical Creatures
+8 Charms
+2 Cornish Pixies
+2 Family Ghoul
+3 Forest Trolls
+2 Monster Book of Monsters
+3 Giant Tarantula
+3 Baby Dragon
+4 Black Bat
+4 Baby Acromantula
+2 Red Cap
+3 Rat Tonic
+4 Hover Charm
+4 Halloween Feast
+2 Hagrid Needs Help
+2 Escaping the Dursley’s
+
+//sideboard
+2 Through the Arch
+2 Pep Talk
+2 Pet Spider
+3 Rose Growth
+1 Unicorn

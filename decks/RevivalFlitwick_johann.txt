@@ -1,0 +1,21 @@
+//deck-1
+4 Skurge
+2 Peeves
+2 Madam Pomfrey
+22 Care of Magical Creatures
+3 Fantastic Beasts & Where to Find Them
+3 Hagrid's House
+4 Guide to Household Pests
+4 Black Bat
+3 Hedwig
+3 Welsh Green Dragon
+2 Fang
+2 Errol
+2 Barn Owl
+2 Screech Owl
+2 Cornish Pixie
+
+//sideboard-1
+4 In the Stands
+3 Argus Filch
+3 Through the Arch

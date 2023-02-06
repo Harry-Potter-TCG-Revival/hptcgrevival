@@ -1,0 +1,20 @@
+//deck
+11 Charms 
+11 Quidditch 
+4 Fouled! 
+2 Fumos 
+4 Ouch! 
+4 Backfire! 
+4 Stream of Flames 
+2 Candy Cart 
+4 Bundimun Ooze 
+4 Potions Homework 
+4 Potions Project 
+4 Alihotsy Draught 
+2 Dueling Club 
+
+//sideboard
+2 Finding the Platform 
+4 Vanishing Referee 
+2 Charms Accident 
+2 Fumos

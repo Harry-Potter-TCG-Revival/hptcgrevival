@@ -1,0 +1,19 @@
+//deck-1
+4 Hooch Watches Practice
+2 Angelina Johnson
+2 Professor Remus Lupin
+4 Candy Cart
+4 Quidditch Pitch
+4 Muddy Practice
+4 The Monster Book of Monsters
+4 Red Cap
+4 Boggart
+4 Fouled!
+12 Quidditch
+12 Care of Magical Creatures
+
+//sideboard
+2 Marble Gargoyle
+2 Beater's Bat
+2 Thunderstorm Match
+2 Alicia Spinnet

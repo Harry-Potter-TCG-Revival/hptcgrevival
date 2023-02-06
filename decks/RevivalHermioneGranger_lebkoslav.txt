@@ -1,0 +1,31 @@
+//deck-1
+13 Transfiguration
+13 Care of Magical Creatures
+1 Professor Severus Snape
+1 Argus Filch
+1 Hannah Abbott
+1 Madam Pomfrey
+4 Picking on Neville
+4 Lost Notes
+4 Scribblifors
+4 Forbidden Corridor
+2 Teacup to Rat
+2 Drawing the Sword
+2 Invisible Ink
+1 Diffindo
+1 Table Trouble
+1 Dobby's Disappearance
+2 Hedwig
+1 Welsh Green Dragon
+1 Norwegian Ridgeback
+1 Whomping Willow
+
+//sideboard-1
+1 Drawing the Sword
+1 Table Trouble
+1 Avifors
+1 Epoximise
+1 Cauldron to Sieve
+3 No time to Play
+1 Professor Minerva McGonagall
+1 Argus Filch

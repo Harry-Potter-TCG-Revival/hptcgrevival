@@ -1,0 +1,23 @@
+//deck-1
+3 Sandstone Gargoyle (aah)
+1 Comet Two Sixty (qc)
+1 Guide to Household Pests (cos)
+1 Cleansweep Seven (qc)
+1 Dobby's Disappearance (cos)
+4 Stream of Flames (qc)
+4 Ouch! (qc)
+4 Slytherin Steals (cos)
+4 Fouled! (qc)
+4 Picking on Neville (da)
+2 Toe Biter (bs)
+4 Rose Growth (cos)
+4 Slinking Ferret (cos)
+4 Black Bat (aah)
+5 Transfiguration (aah)
+7 Care of Magical Creatures (aah)
+7 Charms (aah)
+
+//sideboard-1
+3 Bewitched Snowballs (aah)
+4 Hover Charm (cos)
+3 Pigley Dudley (da)

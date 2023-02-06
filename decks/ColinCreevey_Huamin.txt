@@ -1,0 +1,26 @@
+//deck
+1 Diffindo
+2 Homework
+2 Essential Knowledge Test
+2 Griphook
+1 Invisibility Section
+2 Professor Quirinus Quirrell
+1 Madam Pomfrey
+4 Invisible Ink
+4 Scribblifors
+3 Drawing The Sword
+2 Transfiguration Test
+4 Lost Notes
+3 Madam Malkin's Robes
+1 Dobby's Disappearance
+4 Picking on Neville
+20 Transfiguration
+4 Reptile House
+
+//sideboard-1
+1 Epoximise
+1 Essential Knowledge Test
+2 Restricted Section
+2 Argus Filch
+2 Flying Motorbike
+2 Table Trouble

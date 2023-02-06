@@ -1,0 +1,22 @@
+//deck-1
+2 Twirl (cos)
+2 Escaping the Dursleys (cos)
+3 Quidditch Through the Ages (da)
+3 Hufflepuff Match (qc)
+4 Slytherin Steals (cos)
+4 Fouled! (qc)
+4 Dodging The Bludger (hos)
+3 Biased Commentary (da)
+3 Pulling Up (qc)
+3 Ouch! (qc)
+3 Checked! (cos)
+2 Spiral Dive (da)
+4 Quidditch Pitch (aah)
+2 Support Banner (qc)
+18 Quidditch (aah)
+
+//sideboard-1
+3 Pep Talk (qc)
+2 Defence! (qc)
+3 Vanishing Referee (da)
+2 Catch the Snitch (qc)

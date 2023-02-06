@@ -1,0 +1,29 @@
+//deck
+4 Rogue Bludger
+3 Bludger
+4 Comet Two Sixty
+1 Golden Snitch
+1 Angelina Johnson
+2 Katie Bell
+2 Alicia Spinnet
+2 New Slytherin Seeker
+2 Gryffindor Match
+2 Rescheduled Match
+2 Rainy-Day Match
+2 Hufflepuff Match
+2 Firebolt
+2 Nimbus Two Thousand and One
+2 Broomstick Compass
+2 Quality Quidditch Supplies
+2 Hogwarts Quidditch Robes
+3 Quidditch Cup
+20 Quidditch
+
+//sideboard-1
+1 Draco Malfoy, Slytherin
+1 Support Banner
+1 Professor Severus Snape
+1 Argus Filch
+2 Through the Arch
+2 Riding the Centaur
+2 Pep Talk

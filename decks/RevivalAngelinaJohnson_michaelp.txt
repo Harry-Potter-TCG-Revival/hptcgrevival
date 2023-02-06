@@ -1,0 +1,20 @@
+//deck - 60
+24 Quidditch Lessons
+4 Three-Month-Long Match
+3 Muddy Practice
+3 Slytherin Match
+3 Cleansweep Seven
+4 Bludger
+4 Zig-Zag
+3 Unworthy Trick
+4 Catch the Snitch
+2 Searching for the Snitch
+4 No Hands
+2 Professor Quirinus Quirrell
+
+//Sideboard-10
+2 Through the Arch
+2 Escaping the Dursleys
+2 Hagrid Needs Help
+2 Riding the Centaur
+2 Sloth Grip

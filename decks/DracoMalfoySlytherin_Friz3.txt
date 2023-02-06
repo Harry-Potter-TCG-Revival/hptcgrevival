@@ -1,0 +1,26 @@
+//deck
+4 Hogsmeade Station
+4 Venomous Tentacular Juice
+11 Potions
+9 Quidditch
+4 Self-Stirring Cauldron
+1 Nearly Headless Nick
+4 Lockhart's Hair-Care Potions
+3 Peeves
+1 Griphook
+4 Magical Drafts and Potions
+4 Quidditch Through the Ages
+2 Holidays with Hags
+1 Comet Two Sixty
+1 Seamus Finnigan
+2 Hannah Abbott
+2 Impersonating Goyle
+1 Madam Pomfrey
+1 Madam Rolanda Hooch
+1 Professor Severus Snape
+
+Sideboard
+1 Impersonating Goyle
+3 Argus Filch
+3 Professor Quirinus Quirrell
+3 Through the Arch

@@ -1,0 +1,13 @@
+//deck
+13 Care of Magical Creatures (aah) 
+10 Charms (aah) 
+4 Forest Troll (bs) 
+4 River Troll (da) 
+4 Mountain Troll (bs) 
+2 Borrowed Wand (bs) 
+4 Bewitched Snowballs (aah) 
+4 Blue Wig (da) 
+3 Hover Charm (cos) 
+4 Hagrid Needs Help (qc) 
+4 Dobby's Disappearance (cos) 
+4 Picking on Neville (da) 

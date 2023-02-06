@@ -1,0 +1,26 @@
+//deck
+Professor Severus Snape 
+23 Charms 
+1 Hannah Abbott 
+1 Argus Filch 
+1 Madam Pomfrey 
+4 Wand Shop 
+2 Dragon Hearth Wand 
+3 Bulgeye Potion 
+1 Flying Card 
+1 Galleon 
+4 Gringotts Vault Key 
+1 Reparo 
+4 Titillando 
+2 Obliviate 
+4 Potions Exam 
+4 Potions Class Disaster 
+2 Bundimun Ooze 
+2 Christmas Feast 
+
+//Sideboard 
+3 Fumos 
+3 Impersonating Goyle 
+1 Artur Weasley 
+2 Bundimun Ooze 
+1 Start of term Feast

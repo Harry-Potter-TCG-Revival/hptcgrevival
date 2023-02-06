@@ -1,0 +1,20 @@
+//deck
+4 Snuffling Potion 
+4 The Burrow 
+4 Dobby's Disappearance 
+1 Magical Mess Remover 
+6 Charms 
+6 Potions 
+5 Transfiguration 
+4 Ginny Weasley 
+4 Seamus Finnigan
+3 Peeves
+2 Draco Malfoy 
+2 Marcus Flint 
+3 Professor Severus Snape 
+1 Madam Pomfrey 
+1 Professor Quirinus Quirrell 
+2 Hannah Abbott 
+3 Professor Minvera McGonagall 
+1 Argus Filch 
+4 Escaping the Dursleys

@@ -1,0 +1,22 @@
+//deck-1
+9   Transfiguration
+14  Potions
+4   Self-Stirring Cauldron
+4   Picking on Neville
+4   Scribblifors
+4   Deboning
+1   Dobby's Disappearance
+4   Venomous Tentacula Juice
+4   Through the Arch
+7   Charms
+2   Dobby's Help
+3   Teacup to Rat
+
+//sideboard-1
+1   Spiders' Exodus
+2   Pigley Dudley
+2   Bewitched Snowballs
+1   Teacup to Rat
+1   Table Trouble
+2   4 Privet Drive
+1   Lost Notes

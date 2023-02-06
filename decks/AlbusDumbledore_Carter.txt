@@ -1,0 +1,22 @@
+//deck
+14 Potions
+8 Transfiguration
+4 Picking on Neville
+1 Dobby's Disappearance
+4 Potions Project
+4 Lost Notes
+2 Table Trouble
+4 Burning Bitterroot Balm
+2 Spiders' Exodus
+4 Scribblifors
+3 Diffindo
+4 Invisible Ink
+4 Star Grass Salve
+2 Venomous Tentacular Juice
+
+//Sideboard
+2 Jawbind Potion
+2 Egyptian Holiday
+2 Apparate
+2 Essential Knowledge Test
+1 Table Trouble 1 Spide

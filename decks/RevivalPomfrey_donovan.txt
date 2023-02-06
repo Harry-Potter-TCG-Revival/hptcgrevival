@@ -1,0 +1,22 @@
+//deck-1
+3 Halloween Feast 
+3 Toe Biter 
+2 Voyages With Vampires 
+4 Cornish Pixie 
+1 Pep Talk 
+2 Dumbledore’s Suspension 
+2 Old Sock 
+4 Stream of Flames 
+3 Giant Tarantula 
+4 Forest Spider 
+4 Baby Acromantula 
+3 Aragog 
+2 Aragog’s Lair 
+13 Care of Magical Creatures 
+10 Charms 
+
+//sideboard-1 
+2 Aragog’s Lair 
+3 Spongify 
+4 Through the Arch 
+1 Halloween Feast

@@ -1,0 +1,18 @@
+//deck
+10  Care of Magical Creatures
+10  Transfiguration
+4  Caught by Snape
+2  Hagrid Needs Help
+3  Ginny Weasley
+2  Hannah Abbott
+2  Peeves
+2  Argus Filch
+4  Sandstone Gargoyle
+2  Mrs. Norris
+1  Trevor
+1  Errol
+2  Slinking Ferret
+4  Black Bat
+4  Marble Gargoyle
+4  Dobby's Disappearance
+3  Steelclaw

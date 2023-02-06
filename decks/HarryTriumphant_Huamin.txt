@@ -1,0 +1,22 @@
+//deck
+4    Letters From No One
+4    Escaping the Dursleys
+3    Hagrid Needs Help
+2    Diagon Alley
+4    Fred & George Weasley
+10    Care of Magical Creatures
+8    Charms
+2    End-of-Year Feast
+4    Rope Bind
+4    Hover Charm
+3    Bewitched Snowballs
+3    Purple Firecrackers
+4    Sandstone Gargoyle
+3    Marble Gargoyle
+1    Hedwig
+1    Dragon-Hide Gloves
+
+//Sideboard
+4    In the Stands
+4    Through the Arch
+2    Dragon-Hide Gloves

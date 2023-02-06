@@ -1,0 +1,20 @@
+//deck-1
+16 Quidditch (aah)
+4 Winter Match (hos)
+2 Break With A Banshee (hos)
+4 Quaffle (hos)
+3 Bewitched Snowballs (aah)
+4 Rope Bind (qc)
+3 Power Play (qc)
+4 Ouch! (qc)
+3 New Slytherin Seeker (hos)
+4 Circling The Goal Posts (hos)
+8 Charms (aah)
+4 Immobulus (hos)
+1 Muddy Practice (aah)
+
+//sideboard-1
+2 Through the Arch (da)
+4 Spiral Dive (da)
+2 Argus Filch (aah)
+2 Riding the Centaur (aah)

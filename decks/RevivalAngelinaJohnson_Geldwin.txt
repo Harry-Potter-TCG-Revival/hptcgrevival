@@ -1,0 +1,19 @@
+//deck-1
+18 Quidditch (aah)
+2 Peeves (aah)
+4 Escaping the Dursleys (cos)
+4 Muddy Practice (aah)
+4 Three-Month-Long Match (da)
+4 Bludger (qc)
+4 Fouled! (qc)
+4 Ouch! (qc)
+4 Searching for the Snitch (qc)
+4 Zig-Zag (cos)
+3 New Slytherin Seeker (hos)
+3 Pulling Up (qc)
+2 Quidditch Pitch (aah)
+
+//sideboard-1
+4 Argus Filch (aah)
+4 Through the Arch (da)
+2 Professor Quirinus Quirrell (da)

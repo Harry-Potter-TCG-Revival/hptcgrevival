@@ -1,0 +1,17 @@
+//deck
+4 Black Bat
+2 Hagrid's House
+4 Hebridean Black Dragon
+4 Norwegian Ridgeback
+4 Welsh Green Dragon
+4 Security Troll
+4 Forest Spider
+4 Aragog
+4 Baby Acromantula
+4 Baby Dragon
+22 Care of Magical Creatures 
+
+//sideboard
+4 Sandstone Gargoyle
+4 Marble Gargoyle
+2 Hagrid Needs Help

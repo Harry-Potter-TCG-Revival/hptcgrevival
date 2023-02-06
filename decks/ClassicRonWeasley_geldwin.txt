@@ -1,0 +1,20 @@
+//deck-1
+4 Ginny Weasley
+4 The Fat Lady
+2 Seamus Finnigan
+2 Colin Creevey
+2 Draco Malfoy
+2 Professor Quirinus Quirrell
+2 Hannah Abbott
+2 Madam Pomfrey
+2 Professor Severus Snape
+1 Fred & George Weasley
+1 Professor Minvera McGonagall
+4 Caught by Snape
+4 The Burrow
+4 Dobby's Disappearance
+4 Snuffling Potion
+2 Magical Mess Remover
+2 Memory Charm
+8 Potions
+8 Charms

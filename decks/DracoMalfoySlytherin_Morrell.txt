@@ -1,0 +1,25 @@
+//deck
+6 Charms 
+12 Potions 
+3 Seamus Finnigan 
+1 Dobby 
+1 Professor Quirinus Quirrell 
+1 Professor Severus Snape 
+1 Nearly Headless Nick 
+1 Argus Filch 
+2 Hannah Abbott 
+3 Entrancing Enchantments
+3 Ollivanders 
+3 Magical Me 
+3 Sickle 
+4 Knut 
+4 Lockhart's Hair-Care Potions 
+3 Holidays With Hags 
+3 Lucius Cane 
+4 Self-Stirring Cauldron 
+2 Lucius Malfoy
+
+//sideboard
+4 Riding the Centaur 
+3 Professor Quirinus Quirrell 
+3 Arania Exumai

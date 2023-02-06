@@ -1,0 +1,23 @@
+//deck
+11 Care of Magical Creatures (aah) 
+11 Transfiguration (aah) 
+3 Essential Knowledge Test (hos) 
+2 Crabbe & Goyle (aah) 
+1 Argus Filch (aah) 
+2 Seamus Finnigan (qc) 
+1 The Famous Harry Potter (da) 
+3 Lockharts Office (hos) 
+4 Sandstone Gargoyle (aah) 
+2 Garden Gnome (cos) 
+4 Black Bat (aah) 
+4 Baby Acromantula (hos) 
+3 Cornish Pixie (hos) 
+4 Caught! (cos) 
+4 Picking on Neville (da) 
+1 Dumbledores Suspension (hos) 
+
+//sideboard
+2 Dumbledores Suspension (hos)
+4 Lost Notes (bs) 
+1 Argus Filch (aah) 
+3 Diffindo (qc)

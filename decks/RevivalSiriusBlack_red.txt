@@ -1,0 +1,24 @@
+//deck-60
+1 Madam Pomfrey
+2 Sandstone Gargoyle
+4 Hooch Watches Practice
+2 Angelina Johnson
+1 Professor Remus Lupin
+4 Candy Cart
+4 Quidditch Pitch
+4 Muddy Practice
+2 The Monster Book of Monsters
+4 Red Cap
+4 Fouled!
+12 Quidditch
+12 Care of Magical Creatures
+2 Marble Gargoyle
+2 Beater's Bat
+
+//sideboard-10
+2 The Monster Book of Monsters
+2 Marble Gargoyle
+1 Sandstone Gargoyle
+2 Boggart
+1 Thunderstorm Match
+2 In the Stands

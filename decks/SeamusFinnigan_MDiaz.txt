@@ -1,0 +1,27 @@
+//deck
+12 Care of Magical Creatures 
+4 Transfiguration 
+4 Peeves 
+4 Argus Filch 
+4 Colin Creevey 
+1 Griphook 
+1 Draco Malfoy 
+1 Professor Severus Snape 
+4 In the Stands 
+4 Escaping the Dursleys 
+3 Hagrid Needs Help 
+3 Locked In 
+4 Giant Tarantula 
+4 Sandstone Gargoyle 
+1 Black Bat 
+2 Fang 
+3 Steelclaw 
+1 Dobby's Disappearance 
+
+//sideboard
+3 Essential Knowledge Test
+2 Marble Gargoyle 
+2 Draco Malfoy 
+1 Locked In 
+1 Hagrid Needs Help 
+1 Fang

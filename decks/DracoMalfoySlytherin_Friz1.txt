@@ -1,0 +1,26 @@
+//deck
+11 Potions 
+8 Charms 
+1 The Leakey Cauldron 
+2 Christmas Feast 
+1 Chocolate Frog 
+4 Ollivanders 
+1 Madam Pomfrey 
+1 Professor Severus Snape 
+1 Hannah Habbott 
+3 Arthur Weasley 
+2 Neville Longbottom 
+3 Seamus Finnigan 
+4 Lockhart's Haircare Potion 
+4 Magical Me 
+1 Self-Stirring Cauldron 
+4 Silver Unicorn Horn 
+3 Knut
+3 Sickle 
+3 Lucius' Cane 
+
+//side
+2 Impersonating Goyle 
+3 Through the Arch 
+3 Fumos 
+2 Argus Filch

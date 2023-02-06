@@ -1,0 +1,22 @@
+//deck-1
+9 Charms (aah)
+13 Care of Magical Creatures (aah)
+3 Escaping the Dursleys (cos)
+2 Sirius Black (poa)
+2 Peeves (aah)
+2 Argus Filch (aah)
+2 Hover Charm (cos)
+3 Hippogriff Ride (poa)
+3 Impromptu Inspection (poa)
+4 Bewitched Snowballs (aah)
+4 Stream of Flames (qc)
+4 Red Cap (poa)
+2 Garden Gnome (cos)
+3 Boggart (poa)
+4 Pet Cat (poa)
+
+//sideboard-1
+2 Hermione's Note (cos)
+2 Wand Shop (da)
+2 Peeves (aah)
+4 Hagrid Needs Help (qc)

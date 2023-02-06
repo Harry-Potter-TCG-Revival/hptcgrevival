@@ -1,0 +1,23 @@
+//deck
+12 Care of Magical Creatures (aah)
+8 Quidditch (aah)
+4 De-Gnoming the Garden (cos)
+3 Draco Malfoy (bs)
+4 Fouled! (qc)
+2 Ouch! (qc)
+3 Shooting Star (cos)
+1 Peeves (aah)
+3 Seamus Finnigan (qc)
+2 Errol (cos)
+4 Sandstone Gargoyle (aah)
+4 Black Bat (aah)
+4 Garden Gnome (cos)
+4 Cornish Pixie (hos)
+1 Hedwig (da)
+1 Welsh Green Dragon (aah)
+
+//Sideboard-10
+4 Through the Arch (da)
+2 Doxy (qc)
+2 Trevor (qc)
+2 Hebridean Black Dragon (da)

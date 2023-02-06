@@ -1,0 +1,18 @@
+//deck
+10  Quidditch
+8  Potions
+2  Letters From No One
+3  Locked In
+2  Escaping the Dursleys
+4  Hagrid Needs Help
+4  Hufflepuff Match
+4  Fouled!
+4  Sleeping Potion
+4  Restoration Potion
+2  Potions Project
+4  Caught by Snape
+2  Malevolent Mixture
+3  Impersonating Goyle
+2  Argus Filch
+1  Peeves
+1  Hannah Abbott

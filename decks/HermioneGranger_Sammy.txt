@@ -1,0 +1,20 @@
+//deck
+25 Potions (aah) 
+4 Manegro Potion (aah) 
+4 Cauldron Calamity (hos) 
+4 Potions Homework (cos) 
+4 Potions Project (cos) 
+4 Basilisk Fang (hos) 
+3 Magical Drafts and Potions (da) 
+3 Chamber Of Secrets (hos) 
+2 Hagrid Needs Help (qc) 
+3 Bundimun Ooze (cos) 
+2 Mis-Brewed Polyjuice (hos) 
+2 Impersonating Goyle (cos) 
+
+//sideboard
+3 Dogbane Potion (da) 
+2 Impersonating Goyle (cos) 
+2 Mis-Brewed Polyjuice (hos) 
+1 Hagrid Needs Help (qc) 
+2 Madam Pomfrey (aah)

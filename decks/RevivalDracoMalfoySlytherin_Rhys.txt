@@ -1,0 +1,20 @@
+//deck-60
+2 Peeves
+2 Hannah Abbott
+2 Colin Creevey
+2 Seamus Finnigan
+2 Madam Pomfrey
+4 Lockhart's Hair-Care Potions
+4 Magical Drafts and Potions
+4 A Beginner's Guide to Transfiguration
+4 Self-Stirring Cauldron
+4 Venomous Tentacular Juice
+4 Wanted Poster
+3 Scribblifors
+1 Dobby's Disappearance
+4 Letters From No One
+12 Potions
+6 Transfiguration
+
+//play-1
+1 Draco Malfoy, Slytherin

@@ -1,0 +1,21 @@
+//deck
+7  Care of Magical Creatures 
+8  Charms 
+4  Black Bat 
+4  Cunning Fox 
+2  Marble Gargoyle 
+2  Stone Gargoyle 
+1  Trevor 
+1  Doxy 
+2  Cage 
+2  Guide to Household Pests 
+4  Blue Wig 
+4  Bewitched Snowballs 
+3  Stream of Flames 
+1  Halloween Feast 
+4  Steelclaw 
+2  Lost Notes 
+3  Picking on Neville 
+2  Practical Joke 
+2  Beginner's Guide to Transfiguration 
+2  Pep Talk

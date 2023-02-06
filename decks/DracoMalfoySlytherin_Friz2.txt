@@ -1,0 +1,23 @@
+//deck
+20 Potions 
+1 Peeves 
+2 Nearly Headless Nick 
+3 Griphook 
+2 Hannah Abbott 
+1 Professor Quirinus Quirrell 
+4 Colin Creevey 
+4 Seamus Finnigan 
+1 Basilisk Fang 
+4 Lockhart's Hair-Care Potions 
+4 Holydays With Hags 
+4 Magical Drafts and Potions 
+4 Self-Stirring Cauldron 
+1 The Leaky Cauldron 
+1 Lucius Cane 
+4 Venomous Tentacular Juice 
+
+//side: 
+1 Potion Ingredients 
+3 Potions Projects 
+4 Through the Arch 
+2 Professor Quirinus Quirrell

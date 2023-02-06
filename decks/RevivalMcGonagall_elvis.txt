@@ -1,0 +1,25 @@
+//deck-1
+4 Black Bat
+2 Guide to Household Pests
+4 Bewitched Snowballs
+1 Cornish Pixie
+2 A Beginner's Guide to Transfiguration
+3 Cunning Fox
+2 Marble Gargoyle
+2 Sandstone Gargoyle
+4 Garden Gnome
+3 Hagrid Needs Help
+1 Halloween Feast
+4 Picking on Neville
+4 Steelclaw
+9 Care of Magical Creatures
+2 Desk into Pig
+8 Charms
+2 Lost Notes
+1 Dobby's Disappearance
+2 Blue Wig
+
+//sideboard-1
+4 Through the Arch
+2 Riding the Centaur
+4 Escaping the Dursleys

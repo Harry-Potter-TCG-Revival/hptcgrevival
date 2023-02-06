@@ -1,0 +1,33 @@
+//deck
+22 Charms
+4 Wand Shop
+1 Seamus Finnigan
+1 Prof. Severus Snape
+1 Madam Pomfrey
+1 Argus Filch
+1 Arthur Weasley
+1 Griphook
+1 Hannah Abbott
+1 Philosopher’s Stone
+1 The Sorting Hat
+1 Flying Car
+1 Porcupine Robe
+1 Photo Album
+4 Picking on Neville
+4 Lost Notes
+4 Scribblifors
+1 Dobby’s Disappearance
+2 Invisible Ink
+1 Diffindo
+2 Ollivanders
+3 Reparo
+1 Gringott’s Vault Key
+
+//sideboard
+2 Ollivanders
+1 Arthur Weasley
+1 Argus Filch
+1 Essential Knowledge Test
+1 Teacup to Rat
+2 No Time to PLay
+2 Drawing the Sword

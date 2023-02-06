@@ -1,0 +1,28 @@
+//deck
+1 Professor Quirinus Quirrell
+1 Gryffindor Match
+1 Madam Pomfrey
+1 Draught of Living Death
+1 Elixir of Life
+2 Deboning
+3 Lockhart's Hair-Care Potions
+10 Potions
+1 Professor Minvera McGonagall
+1 Hannah Abbott
+3 Fouled!
+1 Peeves
+1 Dobby's Disappearance
+4 Aparecium
+10 Transfiguration
+9 Quidditch
+2 Spiral Dive
+4 Platform 9 3/4
+4 Flying Laps
+
+//sideboard-1
+1 Professor Minvera McGonagall
+1 Griphook
+2 Transfiguration Test
+2 Through the Arch
+2 Essential Knowledge Test
+2 Argus Filch

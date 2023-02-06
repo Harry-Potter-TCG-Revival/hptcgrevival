@@ -1,0 +1,22 @@
+//deck
+12 Quidditch 
+8 Transfiguration 
+4 Muddy Practice 
+4 Three-Month-Long Match 
+2 Windy-Day Match 
+4 Fouled! 
+4 Zig-Zag 
+3 New Slytherin Seeker 
+2 Catch the Snitch 
+1 Dobby's Disappearance 
+2 Put-Outer 
+4 Picking on Neville 
+4 Vanishing Step 
+4 Pep Talk 
+2 Hagrid Needs Help 
+
+//sideboard
+1 Put-Outer 
+3 Raven to Writing Desk 
+3 Through the Arch 
+3 Drawing The Sword

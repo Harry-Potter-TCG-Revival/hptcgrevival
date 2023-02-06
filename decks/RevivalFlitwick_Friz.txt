@@ -1,0 +1,31 @@
+//deck-1
+1x Dumbledore's Suspension
+1x Argus Filch
+1x Essential Knowledge Test
+10x Care of Magical Creatures
+10x Transfiguration
+2x Charms
+1x Welsh Green Dragon
+1x Hedwig
+2x Doxy
+2x Cornish Pixie
+4x Black Bat
+2x Streeler
+1x Sandstone Gargoyle
+2x Purple Firecrackers
+3x Bewitched Snowballs
+2x Stream of Flames
+1x Halloween Feast
+3x Rose Growth
+3x Scribblifors
+3x Caught!
+1x Table Trouble
+1x Dobby's Disappearance
+3x Picking on Neville
+
+//sideboard-1
+1x Argus Filch
+1x Essential Knowledge Test
+2x Table Trouble
+3x Dragon-Hide Gloves
+3x Dumbledore's Suspension
