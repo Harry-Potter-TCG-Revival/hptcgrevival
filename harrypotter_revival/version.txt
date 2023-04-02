@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>211108</lastupdateYYMMDD>
+<quality>MEDIUM</quality>
+<versionurl>https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/updatelist.txt</updateurl>
+<message>I added Prizoner of Azcaban.</message>
+
+</version>
