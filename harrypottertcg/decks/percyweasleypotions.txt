@@ -1,0 +1,26 @@
+1	Potions Project
+2	Angel's Trumpet Draught
+2	Aparecium
+1	A Beginner's Guide to Transfiguration
+2	Burning Bitterroot Balm
+2	Bruisewort Balm
+1	Caught!
+1	Copper Cauldron
+3	Death-Cap Draught
+1	Diagon Alley
+1	Diffindo
+1	Dragon Poison
+2	Fatiguing Fusion
+1	Flying Motorbike
+1	Forbidden Corridor
+1	History of Magic Homework
+2	Homework
+2	Lost Notes
+1	Magical Drafts and Potions
+3	Potions Homework
+1	Silver Cauldron
+1	Swelling Solution
+17	Potions
+10	Transfiguration
+Starting:
+1	Percy Weasley

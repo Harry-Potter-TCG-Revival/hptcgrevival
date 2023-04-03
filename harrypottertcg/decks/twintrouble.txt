@@ -1,0 +1,26 @@
+1	Caught by Snape
+1	5 Points from Gryffindor
+2	Beater's Bat
+1	Biased Commentary
+1	Bludger Bop
+1	Bludger in the Stands
+1	Candy Cart
+3	Catching Apples
+2	Cleansweep Five
+1	Double-Beater Defence
+2	Flacking
+1	Fouled!
+3	Hawkshead Formation
+1	Locked In
+2	Ouch!
+1	Pep Talk
+2	Pulling Up
+1	Quality Quidditch Supplies
+1	Quidditch Through the Ages
+2	Slytherin Steals
+1	Snape's Bias
+1	Through the Floo
+1	Zig-Zag
+27	Quidditch
+Starting:
+1	The Weasley Twins
