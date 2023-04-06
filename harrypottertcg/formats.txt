@@ -1,0 +1,23 @@
+<formatdefinitions>
+
+<format>
+	<label>Classic</label>
+	<set>Base_Set</set>
+	<set>Quidditch_Cup</set>
+	<set>Diagon_Alley</set>
+	<set>Adventures_at_Hogwarts</set>
+	<set>Chamber_of_Secrets</set>
+</format>
+<format>
+	<label>Revival</label>
+	<set>Base_Set</set>
+	<set>Quidditch_Cup</set>
+	<set>Diagon_Alley</set>
+	<set>Adventures_at_Hogwarts</set>
+	<set>Chamber_of_Secrets</set>
+	<set>Heir_of_Slytherin</set>
+	<set>Prisoner_of_Azkaban</set>
+	<set>Streets_of_Hogsmeade</set>
+</format>
+
+</formatdefinitions>

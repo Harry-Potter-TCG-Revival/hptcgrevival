@@ -1,0 +1,18 @@
+harrypottertcg	04-06-23
+plugins/harrypottertcg/bot.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/bot.jpg	9286
+plugins/harrypottertcg/plugininfo.txt	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/plugininfo.txt	375633
+plugins/harrypottertcg/setlist.txt	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/setlist.txt	13306
+plugins/harrypottertcg/sets/carddata.txt	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/carddata.txt	12241406
+plugins/harrypottertcg/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/cardback.jpg	701877
+plugins/harrypottertcg/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/spawned.jpg	686412
+plugins/harrypottertcg/decks/percyweasleypotions.txt	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/percyweasleypotions.txt	41210
+plugins/harrypottertcg/decks/twintrouble.txt	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/twintrouble.txt	36269
+plugins/harrypottertcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/packdefinitions1.xml	372237
+plugins/harrypottertcg/packs/boosterchamber.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/boosterchamber.jpg	-20265
+plugins/harrypottertcg/packs/boosteradventures.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/boosteradventures.jpg	9897
+plugins/harrypottertcg/packs/boosterbaseset.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/boosterbaseset.jpg	-8196
+plugins/harrypottertcg/packs/boosterdiagon.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/boosterdiagon.jpg	7698
+plugins/harrypottertcg/packs/boosterquidditch.jpg	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/boosterquidditch.jpg	-5923
+plugins/harrypottertcg/version.txt	https://raw.githubusercontent.com/vdsams/pottertradingcardgame/master/version.txt	34181
+CardGeneralURLs:
+https://raw.githubusercontent.com/vdsams/hptcgimages/master/
