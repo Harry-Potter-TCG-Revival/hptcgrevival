@@ -18,6 +18,7 @@
 	<set>Heir_of_Slytherin</set>
 	<set>Prisoner_of_Azkaban</set>
 	<set>Streets_of_Hogsmeade</set>
+	<set>Echoes_of_the_Past</set>
 </format>
 
 </formatdefinitions>

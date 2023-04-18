@@ -3,7 +3,7 @@
 <pluginversion>2.21</pluginversion>
 
 
-<pluginname>harrypotter</pluginname>
+<pluginname>harrypottertcg</pluginname>
 
 
 
@@ -24,6 +24,8 @@
 <deckzone>
 	<label>Sideboard</label>
 		<gamezonetoloadto>Sideboard</gamezonetoloadto>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
 </deckzone>
 
 
@@ -71,7 +73,7 @@
 
 <phase><label>Draw</label></phase>
 
-<phase><label>Damage</label></phase>
+<phase><label>Creature Damage</label></phase>
 
 <phase><label>Actions</label></phase>
 
@@ -88,8 +90,6 @@
 <generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>no</includeasbutton></generalfunction>
 
 <generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
-
-<generalfunction><label>Roll</label><kind>ROLLD6</kind><includeasbutton>no</includeasbutton></generalfunction>
 
 <generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
 
