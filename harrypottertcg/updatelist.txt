@@ -5,7 +5,7 @@ plugins/harrypottertcg/setlist.txt				https://raw.githubusercontent.com/HPTCGRev
 plugins/harrypottertcg/sets/carddata.txt			https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/carddata.txt	12241406
 plugins/harrypottertcg/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/cardback.jpg	701877
 plugins/harrypottertcg/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/spawned.jpg	686412
-plugins/harrypottertcg/CardImageURLs.txt			https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/CardImageURLs.txt  000
+plugins/harrypottertcg/CardImageURLs.txt			https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/CardImageURLs.txt
 plugins/harrypottertcg/decks/percyweasleypotions.txt		https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/percyweasleypotions.dek	41210
 plugins/harrypottertcg/decks/twintrouble.txt			https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/twintrouble.dek	36269
 plugins/harrypottertcg/packs/packdefinitions1.xml		https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/packdefinitions1.xml	372237
