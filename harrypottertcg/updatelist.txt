@@ -15,5 +15,5 @@ plugins/harrypottertcg/packs/boosterbaseset.jpg	https://raw.githubusercontent.co
 plugins/harrypottertcg/packs/boosterdiagon.jpg	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/boosterdiagon.jpg	7698
 plugins/harrypottertcg/packs/boosterquidditch.jpg	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/boosterquidditch.jpg	-5923
 plugins/harrypottertcg/version.txt	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/version.txt	34226
-CardGeneralURLs:
+CardURLFiles:
 CardImageURLs.txt
