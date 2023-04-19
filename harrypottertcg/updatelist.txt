@@ -1,5 +1,5 @@
 harrypottertcg	04-06-23
-plugins/harrypottertcg/bot.jpg	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/bot.png	9286
+plugins/harrypottertcg/bot.jpg	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/bot.jpg	9286
 plugins/harrypottertcg/plugininfo.txt	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/plugininfo.txt	373763
 plugins/harrypottertcg/setlist.txt	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/setlist.txt	17192
 plugins/harrypottertcg/sets/carddata.txt	https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/harrypottertcg/carddata.txt	12241406
