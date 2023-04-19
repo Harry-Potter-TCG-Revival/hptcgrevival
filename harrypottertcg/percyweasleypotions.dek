@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>harrypottertcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Potions_Project">Potions Project</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Angel&apos;s_Trumpet_Draught">Angel&apos;s Trumpet Draught</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Angel&apos;s_Trumpet_Draught">Angel&apos;s Trumpet Draught</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Aparecium">Aparecium</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Aparecium">Aparecium</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="A_Beginner&apos;s_Guide_to_Transfiguration">A Beginner&apos;s Guide to Transfiguration</name><set>Diagon_Alley</set></card>
+		<card><name id="Burning_Bitterroot_Balm">Burning Bitterroot Balm</name><set>Base_Set</set></card>
+		<card><name id="Burning_Bitterroot_Balm">Burning Bitterroot Balm</name><set>Base_Set</set></card>
+		<card><name id="Bruisewort_Balm">Bruisewort Balm</name><set>Quidditch_Cup</set></card>
+		<card><name id="Bruisewort_Balm">Bruisewort Balm</name><set>Quidditch_Cup</set></card>
+		<card><name id="Caught">Caught!</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Copper_Cauldron">Copper Cauldron</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Death-Cap_Draught">Death-Cap Draught</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Death-Cap_Draught">Death-Cap Draught</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Death-Cap_Draught">Death-Cap Draught</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Diagon_Alley">Diagon Alley</name><set>Base_Set</set></card>
+		<card><name id="Diffindo">Diffindo</name><set>Quidditch_Cup</set></card>
+		<card><name id="Dragon_Poison">Dragon Poison</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Fatiguing_Fusion">Fatiguing Fusion</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Fatiguing_Fusion">Fatiguing Fusion</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Flying_Motorbike">Flying Motorbike</name><set>Adventures_at_Hogwarts</set></card>
+		<card><name id="Forbidden_Corridor">Forbidden Corridor</name><set>Adventures_at_Hogwarts</set></card>
+		<card><name id="History_of_Magic_Homework">History of Magic Homework</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Homework">Homework</name><set>Base_Set</set></card>
+		<card><name id="Homework">Homework</name><set>Base_Set</set></card>
+		<card><name id="Lost_Notes">Lost Notes</name><set>Base_Set</set></card>
+		<card><name id="Lost_Notes">Lost Notes</name><set>Base_Set</set></card>
+		<card><name id="Magical_Drafts_and_Potions">Magical Drafts and Potions</name><set>Diagon_Alley</set></card>
+		<card><name id="Potions_Homework">Potions Homework</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Potions_Homework">Potions Homework</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Potions_Homework">Potions Homework</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Silver_Cauldron">Silver Cauldron</name><set>Base_Set</set></card>
+		<card><name id="Swelling_Solution">Swelling Solution</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Potions">Potions</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+		<card><name id="Transfiguration">Transfiguration</name><set>Base_Set</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="Percy_Weasley">Percy Weasley</name><set>Chamber_of_Secrets</set></card>
+	</superzone>
+</deck>
