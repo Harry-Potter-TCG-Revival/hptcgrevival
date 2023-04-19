@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>harrypottertcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Caught_by_Snape">Caught by Snape</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="5_Points_from_Gryffindor">5 Points from Gryffindor</name><set>Adventures_at_Hogwarts</set></card>
+		<card><name id="Beater&apos;s_Bat">Beater&apos;s Bat</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Beater&apos;s_Bat">Beater&apos;s Bat</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Biased_Commentary">Biased Commentary</name><set>Diagon_Alley</set></card>
+		<card><name id="Bludger_Bop">Bludger Bop</name><set>Adventures_at_Hogwarts</set></card>
+		<card><name id="Bludger_in_the_Stands">Bludger in the Stands</name><set>Diagon_Alley</set></card>
+		<card><name id="Candy_Cart">Candy Cart</name><set>Adventures_at_Hogwarts</set></card>
+		<card><name id="Catching_Apples">Catching Apples</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Catching_Apples">Catching Apples</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Catching_Apples">Catching Apples</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Cleansweep_Five">Cleansweep Five</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Cleansweep_Five">Cleansweep Five</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Double-Beater_Defence">Double-Beater Defence</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Flacking">Flacking</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Flacking">Flacking</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Fouled">Fouled!</name><set>Quidditch_Cup</set></card>
+		<card><name id="Hawkshead_Formation">Hawkshead Formation</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Hawkshead_Formation">Hawkshead Formation</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Hawkshead_Formation">Hawkshead Formation</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Locked_In">Locked In</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Ouch">Ouch!</name><set>Quidditch_Cup</set></card>
+		<card><name id="Ouch">Ouch!</name><set>Quidditch_Cup</set></card>
+		<card><name id="Pep_Talk">Pep Talk</name><set>Quidditch_Cup</set></card>
+		<card><name id="Pulling_Up">Pulling Up</name><set>Quidditch_Cup</set></card>
+		<card><name id="Pulling_Up">Pulling Up</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quality_Quidditch_Supplies">Quality Quidditch Supplies</name><set>Diagon_Alley</set></card>
+		<card><name id="Quidditch_Through_the_Ages">Quidditch Through the Ages</name><set>Diagon_Alley</set></card>
+		<card><name id="Slytherin_Steals">Slytherin Steals</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Slytherin_Steals">Slytherin Steals</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Snape&apos;s_Bias">Snape&apos;s Bias</name><set>Quidditch_Cup</set></card>
+		<card><name id="Through_the_Floo">Through the Floo</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Zig-Zag">Zig-Zag</name><set>Chamber_of_Secrets</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+		<card><name id="Quidditch">Quidditch</name><set>Quidditch_Cup</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="The_Weasley_Twins">The Weasley Twins</name><set>Chamber_of_Secrets</set></card>
+	</superzone>
+</deck>
