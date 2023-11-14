@@ -1,0 +1,27 @@
+//play
+1x Prof. Flitwick, Charms Master
+
+//deck
+20x Charms
+2x Arithmancy, Third Year
+2x History of Magic, Third Year
+1x Madam Pomfrey
+4x Dragon Heart Wand
+4x Wand Shop
+4x Permission Form
+1x Alohomora
+4x Fire Omens
+3x Cheering Charm
+3x Bewitched Snowballs
+1x Gringotts Vault Key
+3x Reparo
+4x Alley Blast
+4x Exploding Charm
+
+//sideboard
+2x Blue Wig
+3x Fumos
+3x Argus Filch
+3x Incendio
+1x Cedric Diggory
+3x Through the Arch

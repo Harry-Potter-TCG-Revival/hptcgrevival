@@ -1,0 +1,30 @@
+//play-1
+1 Arthur Weasley
+
+
+//deck-1
+14 Transfiguration
+12 Potions
+4 Picking on Neville
+3 Patronus Practice
+3 Broken Item
+2 Colin's Camera
+4 Self-Stirring Cauldron
+2 Death Warrant
+4 Holidays with Hags
+3 Hermione's Time-Turner
+2 Basilisk Fang
+2 Madam Pomfrey
+1 Nearly Headless Nick
+2 Dumbledore's Office
+2 Hagrid Needs Help
+
+//sideboard-1
+2 Wanted Poster
+2 Battered Old Suitcase
+2 Empty Frame
+2 Porcupine Robe
+2 Egyptian Holiday
+2 Argus Filch
+1 Walden MacNair
+2 Pep Talk

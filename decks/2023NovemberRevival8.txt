@@ -1,0 +1,29 @@
+//sideboard-1
+3 Argus Filch
+2 Pep Talk
+2 Walden MacNair
+2 Dementors on the Lake
+2 Madam Pomfrey
+2 Through the Arch
+2 In the Stands
+
+//play-1
+1 Draco Malfoy, Slytherin
+
+//deck-1
+7 Transfiguration
+7 Quidditch
+6 Charms
+2 Arithmancy, Third Year
+2 History of Magic, Third Year
+4 Broken Item
+3 Sickle
+2 Flying Car
+4 Comet Two Ninety
+3 Spellotape
+4 Knut
+4 Broomstick Compass
+2 Intermediate Transfiguration
+2 Inheriting the Map
+4 Spiral Dive
+4 Flitwick's Inspection

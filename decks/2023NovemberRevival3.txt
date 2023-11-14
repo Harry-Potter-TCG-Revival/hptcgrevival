@@ -1,0 +1,37 @@
+//deck-1
+4 Inheriting the Map
+1 Exploding Charm
+1 Alley Blast
+1 Start-of-Term Feast
+2 I Solemnly Swear
+2 Sink Passageway
+2 Floo Powder
+3 Picking on Neville
+4 Scribblifors
+4 Invisible Ink
+21 Charms
+1 Potions
+4 Wand Shop
+1 Colour-Changing Ink
+1 Dragon Heart Wand
+1 Venomous Tentacula Juice
+1 Dobby's Help
+4 Three Turns
+1 Reparo
+1 Griphook
+
+//sideboard-1
+1 Hermione's Time-Turner
+3 Drawing the Sword
+1 Cancelled Match
+1 Hagrid Needs Help
+1 Endless Sandwiches
+2 Cheering Charm
+1 Filch, Hogwarts Caretaker
+1 Argus Filch
+2 Flying Motorbike
+1 Patronus
+1 Walden MacNair
+
+//play-1
+1 Prof. Minerva McGonagall

@@ -1,0 +1,27 @@
+//sideboard-1
+1 Trevor
+2 Dementor
+4 Hannah Abbott
+4 Pet Toad
+4 Wanted Poster
+
+//deck-1
+4 Forest Troll
+4 Hinkypunk
+4 Sandstone Gargoyle
+4 Baby Dragon
+4 Black Bat
+2 Hermes
+2 Dementor
+4 Picking on Neville
+4 Steelclaw
+4 Through the Arch
+2 Cedric Diggory
+4 Ancient Runes, Third Year
+2 History of Magic, Third Year
+2 Herbology, Third Year
+4 Transfiguration
+10 Care of Magical Creatures
+
+//play-1
+1 Hermione, Overworked Student
