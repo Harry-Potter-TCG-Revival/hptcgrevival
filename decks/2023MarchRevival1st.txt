@@ -1,26 +1,18 @@
-//sideboard-1
-1 Drawing the Sword (hos)
-3 Dementor's Kiss (eotp)
-3 Filch, Hogwarts Caretaker (poa)
-3 Argus Filch (aah)
-3 Through the Arch (da)
-2 Table Trouble (da)
-
 //play-1
-1 Fred & George Weasley (qc)
+1 Professor Minerva McGonagall
 
-//deck-1
-4 Slinking Ferret (cos)
-4 Sandstone Gargoyle (aah)
-4 Baby Acromantula (hos)
-4 Picking on Neville (da)
-2 Drawing the Sword (hos)
-4 Diffindo (qc)
-3 Pep Talk (qc)
-3 Letters From No One (da)
-4 Hagrid Needs Help (qc)
-4 Locked In (cos)
-4 Ancient Runes, Third Year (eotp)
-9 Transfiguration (aah)
-9 Care of Magical Creatures (aah)
-2 Madam Pomfrey (aah)
+//-deck-60
+28 Care of Magical Creatures
+4 Owl Post
+4 Picking on Neville
+4 Lost Notes
+4 Scribblifors
+4 Diffindo
+4 Invisible Ink
+4 Prickly Porcupine
+4 Crazed Capybara
+
+//-side-10
+4 Cauldron to Sieve
+4 Epoximise
+2 Argus Filch
