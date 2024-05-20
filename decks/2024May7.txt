@@ -1,0 +1,29 @@
+//play
+Helga Hufflepuff
+
+//deck
+1 Madam Pomfrey (aah)
+2 12 Years in Azkaban (poa)
+4 Hogwart's Kitchen (hah)
+4 Unfogging the Future (poa)
+2 Teacups and Tea Leaves (poa)
+2 Cauldron Calamity (hos)
+4 Butterbeer (soh)
+4 Picking on Neville (da)
+1 Malevolent Mixture (bs)
+2 Midnight Snacks (hah)
+4 Palmistry (poa)
+2 Stairs into Slides (hah)
+2 Wolfsbane Potion (poa)
+3 Patronus Practice (eotp)
+1 Diffindo (qc)
+11 Potions (aah)
+11 Transfiguration (aah)
+
+//sideboard
+3 Flying Motorbike (aah)
+3 Through the Arch (da)
+2 Ballooning Aunt (poa)
+1 Argus Filch (aah)
+3 Transfiguration Test (bs)
+3 Table Trouble (da)
