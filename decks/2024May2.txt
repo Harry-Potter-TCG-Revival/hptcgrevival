@@ -1,0 +1,23 @@
+//play
+Fred and George Weasley 
+
+//deck
+4 Locked In
+4 Letters From No One
+4 Hagrid Needs Help
+4 Scribblifors
+2 Lost Notes
+4 Picking on Neville
+4 Cornish Pixie
+4 Prickly Porcupine
+2 Crookshanks
+2 Centaur
+12 Transfiguration
+12 Care of Magical Creatures
+2 Welsh Green Dragon
+
+//sideboard
+4 Drawing the Sword
+4 Table Trouble
+4 Gaze Into the Mirror
+3 Reptile House
