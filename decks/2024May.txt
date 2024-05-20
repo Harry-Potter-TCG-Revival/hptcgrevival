@@ -1,0 +1,34 @@
+//deck
+2        Lockhart's Hair-Care Potions
+3        Professor Severus Snape
+2        Prof. Minerva McGonagall
+3        Professor Quirinus Quirrell
+2        Professor Remus Lupin
+2        Argus Filch
+4        Madam Pomfrey
+3        Hannah Abbott
+4        Colin Creevey
+3        Griphook
+3        Magical Mess Remover
+5        Potions
+4        Hagrid Needs Help
+2        Cedric Diggory
+4        Ron Weasley
+2        Transfiguration
+4        Astronomy Homework
+4        Star Charts
+2        Wanted Poster
+2        Walden MacNair
+
+//sideboard
+1        Prof. Minerva McGonagall
+1        Walden MacNair
+3        Through the Arch
+3        Table Trouble
+1        Wanted Poster
+3        Impersonating Goyle
+2        Transfiguration
+1        Potions
+
+//starter
+Seamus Finnigan
