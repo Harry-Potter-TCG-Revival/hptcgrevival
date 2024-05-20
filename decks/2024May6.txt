@@ -1,0 +1,28 @@
+//play
+Draco Malfoy, Slytherin
+
+//deck
+x3 Arthur Weasley
+x2 Madam Pomfrey
+x4 Dumbledore's Office
+x2 Scribblifors
+x2 Inheriting the Map
+x3 Brass Scales
+x2 Empty Frame
+x4 Bulgeye Potion
+x2 Broken Item
+x1 Basilisk Fang
+x4 Magical Drafts and Potions
+x4 A Beginner's Guide to Transfiguration
+x4 Holidays with Hags
+x2 Self-Stirring Cauldron
+x11 Potions
+x10 Transfiguration
+
+//sideboard
+x1 Filch, Hogwarts Caretaker
+x2 Argus Filch
+x1 Sink Passageway
+x4 Wanted Poster
+x3 Basilisk Fang
+x4 Azkaban
