@@ -1,0 +1,30 @@
+//play
+Professor Rubeus Hagrid
+
+//deck
+1 Winged Boar (poa)
+1 Hedwig (da)
+3 Flying Motorbike (aah)
+2 Madam Pomfrey (aah)
+4 Double-Ended Newt (eotp)
+1 Full Moon (eotp)
+4 Hermione's Time-Turner (eotp)
+11 Care of Magical Creatures (aah)
+1 Buckbeak (poa)
+12 Transfiguration (aah)
+3 Avifors (bs)
+3 Restricted Section (bs)
+3 Epoximise (bs)
+4 Picking on Neville (da)
+3 Forbidden Corridor (aah)
+3 Lost Notes (bs)
+1 Hannah Abbott (bs)
+
+//sideboard
+3 Wanted Poster (poa)
+1 Flying Motorbike (aah)
+1 Forbidden Corridor (aah)
+3 Vanishing Cabinet (cos)
+1 Professor Quirinus Quirrell (da)
+3 Unicorn (bs)
+3 Astronomy Homework (eotp)
