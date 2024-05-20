@@ -1,0 +1,40 @@
+//play
+Prof. Minerva McGonagall
+
+//deck
+1 Griphook
+18 Charms
+3 Potions
+1 Transfiguration
+1 History of Magic, Third Year
+1 Floo Powder
+1 Sirius' Letter
+2 I Solemnly Swear
+1 Sink Passageway
+3 Picking on Neville
+1 Start-of-Term Feast
+4 Wand Shop
+1 Cheering Charm
+1 Dragon Heart Wand
+1 Hermione's Time-Turner
+4 Inheriting the Map
+1 Lost Notes
+1 Stairs into Slides
+2 Scribblifors
+3 Invisible Ink
+1 Exploding Charm
+1 Deboning
+1 Venomous Tentacula Juice
+2 Dobby's Help
+4 Three Turns
+
+//sideboard
+1 Invisible Ink
+1 Argus Filch
+1 Filch, Hogwarts Caretaker
+2 Wanted Poster
+1 Lost Notes
+2 Patronus
+2 Table Trouble
+4 Drawing the Sword
+1 Flying Car
