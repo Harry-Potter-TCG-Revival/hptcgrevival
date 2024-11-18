@@ -1,0 +1,35 @@
+//deck-1
+1 Shooting Star
+1 Nimbus Two Thousand and One
+1 Nimbus Two Thousand
+1 Firebolt
+2 Handbook of Do-It-Yourself Broomcorn
+3 Broomstick Compass
+3 Quidditch Teams of Britain and Ireland
+2 Hogwarts Quidditch Robes
+3 Quidditch Through the Ages
+1 Cleansweep Seven
+2 Orchard Pitch
+1 Cheering Charm
+2 Christmas Feast
+2 Enchanted Tables
+2 Flitwick's Inspection
+3 Impervious
+2 Fast Swerve
+4 Bumphing
+4 Fouled!
+7 Charms
+13 Quidditch
+
+//sideboard-1
+2 Riding the Centaur
+2 Sloth Grip
+1 Christmas Feast
+3 Fumos
+2 Electric Fireplace
+1 Madam Pomfrey
+2 Quality Quidditch Supplies
+2 4 Privet Drive
+
+//play-1
+1 Draco Malfoy, Slytherin (da)
