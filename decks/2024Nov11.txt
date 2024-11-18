@@ -1,0 +1,29 @@
+//sideboard-1
+1 Deadly Prank
+2 Argus Filch
+2 Dementor
+1 Hedwig
+3 Owl Treats
+
+//deck-1
+8 Transfiguration
+12 Care of Magical Creatures
+2 Argus Filch
+2 Cedric Diggory
+3 Cornish Pixie
+3 Deadly Prank
+2 Dementor
+3 Forbidden Corridor
+2 Hannah Abbott
+2 Hedwig
+3 Hermes
+3 Picking on Neville
+2 Pigwidgeon
+4 Resentful Goodbye
+3 Snowy Owl
+2 Through the Arch
+2 Time Travel Hijinks
+2 Unicorn Foals
+
+//play-1
+1 Professor Rubeus Hagrid
