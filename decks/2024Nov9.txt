@@ -1,0 +1,26 @@
+//deck-1
+14 Transfiguration
+12 Potions
+4 Picking on Neville
+3 Stairs into Slides
+4 Broken Item
+3 Colin's Camera
+3 Self-Stirring Cauldron
+3 Holidays with Hags
+2 Banned Item List
+3 Hermione's Time Turner
+3 Basilisk Fang
+2 Madam Pomfrey
+1 Cedric Diggory
+3 Disciplinary Transfiguration
+
+//sideboard-1
+4 Confiscated Map
+4 Through the Arch
+2 Wanted Poster
+2 Walden MacNair
+2 The First Triwizard Tournament
+1 Cedric Diggory
+
+//play-1
+1 Arthur Weasley

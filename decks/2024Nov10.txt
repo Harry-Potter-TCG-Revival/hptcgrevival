@@ -1,0 +1,26 @@
+//deck-1
+2 Welsh Green Dragon (aah)
+2 Madam Pomfrey (aah)
+1 Flying Car (cos)
+3 Hut on the Rock (aah)
+3 Hogwarts: A History (hah)
+4 Enchanted Tables (gof)
+3 Photo Album (aah)
+2 Borrowed Wand (bs)
+4 The Standard Book of Spells, Grade 4 (gof)
+4 Depulso (hah)
+4 Cornish Pixie (hos)
+4 The Shrieking Shack (soh)
+4 Defense Against the Dark Arts, Third Year (gof)
+10 Care of Magical Creatures (aah)
+10 Charms (aah)
+
+//sideboard-1
+3 Through the Arch (da)
+3 In the Stands (qc)
+3 Dementor (poa)
+3 Hiding From Snape (bs)
+3 Logic Puzzle (bs)
+
+//play-1
+1 Igor Karkaroff (gof)

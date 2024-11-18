@@ -1,0 +1,32 @@
+//deck-1
+x2 Madam Pomfrey
+x1 Madame Olympe Maxime
+x1 Stan Shunpike
+x4 Hogwarts: A History
+x18 Transfiguration
+x2 Charms
+x4 History of Magic, Third Year
+x4 Gringotts
+x1 Deboning
+x1 Table Trouble
+x1 House-elf Exploitation
+x3 Inheriting the Map
+x2 Cheering Charm
+x3 Stairs into Slides
+x2 Research
+x3 Depulso
+x4 Hover Charm
+x4 Start-of-Term Feast
+
+//sideboard-1
+x2 Logic Puzzle
+x1 Hermione's Note
+x2 House-elf Exploitation
+x3 Fumos
+x3 Through the Arch
+x1 Stairs into Slides
+x2 Table Trouble
+x1 Depulso
+
+//play-1
+1 Professor Flitwick, Charms Master

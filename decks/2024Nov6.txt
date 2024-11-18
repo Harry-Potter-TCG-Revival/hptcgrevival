@@ -1,0 +1,38 @@
+//deck-1
+3 Alchemy (bs)
+4 Picking on Neville (da)
+1 Hagrid's Umbrella (da)
+4 Depulso (hah)
+1 I Solemnly Swear (poa)
+1 Guide to Household Pests (cos)
+1 Professor Severus Snape (bs)
+1 Full Moon (eotp)
+3 Cornish Pixie (hos)
+1 Dementor's Kiss (eotp)
+3 Security Troll (poa)
+1 Professor Quirinus Quirrell (da)
+4 Double-Ended Newt (eotp)
+1 Slytherin's Basilisk (hos)
+1 Lockhart's Office (hos)
+1 Madam Pomfrey (aah)
+1 Hedwig (da)
+4 Hermione's Time Turner (eotp)
+3 Forbidden Corridor (aah)
+4 History of Magic, Third Year (eotp)
+6 Transfiguration (aah)
+7 Care of Magical Creatures (aah)
+4 Charms (aah)
+
+//sideboard-1
+1 Stan Shunpike (poa)
+1 Scabbers (qc)
+1 Cornelius Fudge (poa)
+3 Vanishing Cabinet (cos)
+1 Argus Filch (aah)
+1 Filch, Hogwarts Caretaker (poa)
+3 Essential Knowledge Test (hos)
+1 Empty Frame (eotp)
+3 Flying Motorbike (aah)
+
+//play-1
+1 Professor Rubeus Hagrid

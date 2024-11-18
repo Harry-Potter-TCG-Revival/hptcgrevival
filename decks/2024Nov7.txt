@@ -1,0 +1,35 @@
+//deck-1
+2 Rita Skeeter
+2 Harry Potter
+2 Mis-Brewed Polyjuice
+3 Griphook
+2 Seamus Finnigan
+5 Potions
+2 Lockhart's Hair-Care Potions
+3 Picking on Neville
+2 Ron Weasley
+2 Professor Pomona Sprout
+3 Madam Rolanda Hooch
+2 Professor Severus Snape
+2 Professor Filius Flitwick
+3 Prof. Minerva McGonagall
+2 Colin Creevey
+2 Justin Finch-Fletchley
+2 Gryffindor Common Room
+2 Crabbe and Goyle
+2 Cedric Diggory
+3 Hufflepuff Common Room
+3 Slytherin Common Room
+3 Salazar Slytherin
+3 Helga Hufflepuff
+3 Godric Gryffindor
+
+//sideboard-1
+3 In the Stands
+3 Riding the Centaur
+3 Filch, Hogwarts Caretaker
+3 Gaze Into the Mirror
+3 The First Triwizard Tournament
+
+//play-1
+1 Armando Dippet

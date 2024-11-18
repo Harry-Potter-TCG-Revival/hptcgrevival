@@ -1,0 +1,25 @@
+//deck-1
+4 Vanishing Step
+4 Broaden Your Minds
+4 Depulso
+4 Invisibility Section
+4 Picking on Neville
+4 Missing Parchment
+4 Stairs into Slides
+4 Borrowed Wand
+4 Wanted Poster
+8 Transfiguration
+2 Table Trouble
+2 Hogwarts: A History
+8 Charms
+2 Argus Filch
+2 Madam Pomfrey
+
+//sideboard-1
+4 Electric Fireplace
+4 Reptile House
+3 History of Magic
+4 Colloshoo
+
+//play-1
+1 Madame Olympe Maxime

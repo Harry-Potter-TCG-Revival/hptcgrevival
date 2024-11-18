@@ -1,0 +1,27 @@
+//deck-1
+4 Honeydukes
+4 Locked In
+2 Helga Hufflepuff
+2 Godric Gryffindor
+1 Argus Filch
+1 Madam Pomfrey
+2 Lucius' Cane
+4 Alohomora
+4 Toothflossing Stringmints
+4 Chocolate
+4 Liquorice Wand
+4 Fizzing Whizbees
+2 Unplottable
+2 Stinging Scar
+20 Potions
+
+//sideboard-1
+3 Slanderous Article
+1 Madam Pomfrey
+1 Argus Filch
+2 Filch, Hogwarts Caretaker
+4 In the Stands
+4 Hiding From Snape
+
+//play-1
+1 Professor Filius Flitwick

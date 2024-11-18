@@ -1,0 +1,35 @@
+//deck-1
+2 Alicia Spinnet (hos)
+2 Angelina Johnson (cos)
+4 Argus Filch (aah)
+1 Bill Weasley (gof)
+3 Cedric Diggory (eotp)
+2 Colin Creevey (cos)
+2 Derrick and Bole (eotp)
+1 Draco the Seeker (cos)
+2 Fred & George, Beaters (poa)
+2 Griphook (da)
+1 Harry the Seeker (qc)
+2 Katie Bell (hos)
+4 Kitchen House Elves (gof)
+4 Marcus Flint (qc)
+1 Neville Longbottom (qc)
+4 Oliver the Captain (eotp)
+12 Potions (aah)
+2 Rita Skeeter (gof)
+1 Roger Davies (eotp)
+4 Ron Weasley (bs)
+3 Seamus Finnigan (qc)
+
+1 The Fat Lady (aah)
+
+//sideboard-1
+2 Filch, Hogwarts Caretaker (poa)
+3 Impersonating Goyle (cos)
+4 Potions Homework (cos)
+2 Potions Project (cos)
+2 Professor Quirinus Quirrell (da)
+2 Walden MacNair (eotp)
+
+//play-1
+Hermione, S.P.E.W. Founder (gof)

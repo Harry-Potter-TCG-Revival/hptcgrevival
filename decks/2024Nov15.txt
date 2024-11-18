@@ -1,0 +1,25 @@
+//deck-1
+4 Borrowed Wand
+2 Phoenix Feather Wand
+4 Hogwarts: A History
+2 The Standard Book of Spells [Grade 3]
+4 The Standard Book of Spells, Grade 4
+4 Permission Form
+4 Gringotts Vault Key
+2 Exploding Charm
+4 Enchanted Tables
+4 Depulso
+2 Flying Car
+24 Charms
+
+//sideboard-1
+3 Riding the Centaur
+3 Through the Arch
+1 Igor Karkaroff
+2 Photo Album
+2 Madam Pomfrey
+2 Fumos
+2 Logic Puzzle
+
+//play-1
+1 Professor Filius Flitwick

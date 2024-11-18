@@ -1,0 +1,34 @@
+//deck-1
+Norwegian Ridgeback x1
+Welsh Green Dragon x1
+Norbert x2
+Errol x4
+Pigwidgeon x2
+Barn owl x2
+Tawny owl x2
+Screech owl x2
+Snowy owl x2
+Eagle owl x2
+Owl treats x2
+Owl emporium x3
+Hermione granger 
+Fouled x4
+Ouch x4
+Time out x2
+Steelclaw x4
+CoMC x11
+Quidditch x9
+
+//sideboard-1
+Time out x2
+Norwegian ridgeback x1
+Welsh green x1
+Norbert x2
+Smash x2
+Vanishing referee x2
+Igor karkaroff
+A guide to advanced transfiguration x2
+Fertilizer from Norway x2
+
+//play-1
+1 Professor Minerva McGonagall

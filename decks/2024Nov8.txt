@@ -1,0 +1,32 @@
+//deck-1
+1 The First Triwizard Tournament
+2 Disciplinary Transfiguration
+2 Resurgence of the Dark Mark
+3 Pep Talk
+4 Locked In
+2 Percy's Admiration
+2 Madam Pomfrey
+2 Lee's Tarantula
+2 Slinking Ferret
+4 Baby Acromantula
+4 Sandstone Gargoyle
+2 Stairs into Slides
+2 Drawing the Sword
+4 Picking on Neville
+2 Diffindo
+4 Ancient Runes, Third Year
+9 Transfiguration
+9 Care of Magical Creatures
+
+//sideboard-1
+2 In the Stands
+2 Disciplinary Transfiguration
+2 Drawing the Sword
+2 Empty Classroom
+2 Gaze Into the Mirror
+2 Overhearing a Conversation
+2 Table Trouble
+1 The First Triwizard Tournament
+
+//play-1
+1 Fred & George Weasley
