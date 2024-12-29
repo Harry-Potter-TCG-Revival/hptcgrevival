@@ -1,0 +1,31 @@
+//deck-1
+7 Quidditch
+7 Care of Magical Creatures
+4 Flying, Third Year
+2 Through the Arch
+3 Sandstone Gargoyle
+1 Winged Boar
+1 Trevor
+4 Black Bat
+4 Marble Gargoyle
+3 Cornish Pixie
+2 Hedwig
+2 Crookshanks
+4 Hufflepuff Match
+4 The Shrieking Shack
+3 Quaffle
+2 Banned Item List
+1 Steelclaw
+4 Fouled!
+2 Wormtail's Torture
+
+//sideboard-1
+3 Madam Pomfrey
+1 Dissendium
+3 Table Trouble
+3 Drawing the Sword
+2 Loop-the-Loops
+3 Dementor's Kiss
+
+//play-1
+1 Prof. Minerva McGonagall (qc)

@@ -1,0 +1,35 @@
+//deck-1
+2 Charms
+1 Defense Against the Dark Arts, Third Year
+1 History of Magic, Third Year
+10 Care of Magical Creatures
+10 Transfiguration
+1 Flying Motorbike
+1 Halloween Feast
+4 Depulso
+4 Bewitched Snowballs
+4 Stairs into Slides
+2 Purple Firecrackers
+1 Table Trouble
+1 Logic Puzzle
+2 Gringotts Vault Key
+1 Empty Frame
+3 Slinking Ferret
+1 Sandstone Gargoyle
+4 Black Bat
+4 Cornish Pixie
+2 Dementor
+1 Hedwig
+
+//sideboard-1
+2 Dementor
+1 Patronus
+1 Scabbers
+2 Trevor
+3 Electric Fireplace
+3 Empty Frame
+1 Flying Motorbike
+2 Table Trouble
+
+//play-1
+1 Professor Filius Flitwick (bs)

@@ -1,0 +1,36 @@
+//deck-1
+1 In the Spider's Lair
+2 4 Privet Drive
+20 Care of Magical Creatures
+1 Fang
+4 Scabbers' Return
+1 Haunting Screams
+1 Hagrid and the Stranger
+1 Hagrid's House
+4 Fertilizer from Norway
+1 The Monster Book of Monsters
+2 Madam Pomfrey
+1 Fluffy
+1 Buckbeak
+4 Forest Spider
+4 Baby Acromantula
+1 Aragog
+1 Abraxan
+4 Lee's Tarantula
+1 Norbert
+4 Baby Dragon
+1 Giant Squid
+
+//sideboard-1
+1 Detention!
+1 Disciplinary Transfiguration
+1 Filch, Hogwarts Caretaker
+2 Argus Filch
+2 Walden MacNair
+2 Ron Weasley
+4 The First Triwizard Tournament
+1 Resurgence of the Dark Mark
+1 Percy's Admiration
+
+//play-1
+1 Prof Rubeus Hagrid (poa)

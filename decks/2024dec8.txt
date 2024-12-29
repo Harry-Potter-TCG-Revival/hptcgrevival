@@ -1,0 +1,36 @@
+//deck-1
+2 Slanderous Article
+8 Charms
+8 Transfiguration
+4 History of Magic, Third Year
+4 Weasley's Grandfather Clock
+3 Arthur Weasley
+3 Bill Weasley
+3 Ron Weasley
+2 Madam Pomfrey
+2 Seamus Finnigan
+2 Nearly Headless Nick
+2 Hannah Abbott
+2 Professor Severus Snape
+1 Weatherby
+1 Rita Skeeter
+1 Walden MacNair
+1 Griphook
+2 Professor Minvera McGonagall
+1 Moody's Hip Flask
+2 Borrowed Wand
+2 Electric Fireplace
+2 Waddiwasi
+2 Neville Longbottom
+
+//sideboard-1
+3 Living Room Explosion
+2 Filch, Hogwarts Caretaker
+3 Ballooning Aunt
+2 Slanderous Article
+1 Professor Quirinus Quirrell
+2 Empty Classroom
+2 Argus Filch
+
+//play-1
+1 Molly Weasley (cos)

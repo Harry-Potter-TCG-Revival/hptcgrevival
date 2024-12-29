@@ -1,0 +1,27 @@
+//deck-1
+18 Care of Magical Creatures
+4 Transfiguration
+3 Welsh Green Dragon
+4 Hedwig
+4 Marble Gargoyle
+4 Sandstone Gargoyle
+4 Slinking Ferret
+1 Forbidden Corridor
+1 Deboning
+4 Picking on Neville
+4 Steelclaw
+1 Hannah Abbott
+1 Professor Severus Snape
+2 Madam Pomfrey
+1 Griphook
+4 Locked In
+
+//sideboard-1
+3 Through the Arch
+2 Table Trouble
+3 Wanted Poster
+3 Pep Talk
+4 Drawing the Sword
+
+//play-1
+1 Prof. Minerva McGonagall (qc)

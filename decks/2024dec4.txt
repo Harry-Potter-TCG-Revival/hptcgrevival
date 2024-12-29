@@ -1,0 +1,30 @@
+//deck-1
+15 Quidditch (aah)
+6 Transfiguration (aah)
+3 Stairs into Slides (hah)
+3 Orchard Pitch (gof)
+3 Turbulent Flight (gof)
+3 Fouled! (qc)
+2 Ouch! (qc)
+4 Mid-air Collision (da)
+4 Out of Control (qc)
+2 Flying Laps (cos)
+3 Transfiguration Test (bs)
+2 Table Trouble (da)
+3 A Guide to Advanced Transfiguration (gof)
+3 Quidditch Teams of Britain and Ireland (gof)
+2 Gryffindor Steals (poa)
+2 Resurgence of the Dark Mark (gof)
+
+//sideboard-1
+1 Madam Pomfrey (aah)
+2 Argus Filch (aah)
+1 Resurgence of the Dark Mark (gof)
+2 Picking on Neville (da)
+3 Through the Arch (da)
+3 The First Triwizard Tournament (hah)
+1 Defence! (qc)
+2 Table Trouble (da)
+
+//play-1
+1 Prof. Minerva McGonagall (qc)

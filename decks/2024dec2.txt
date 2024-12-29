@@ -1,0 +1,27 @@
+//deck-1
+2 Madam Pomfrey (aah)
+4 Colin Creevey (cos)
+3 Griphook (da)
+3 Fire Omens (eotp)
+3 Immaculate Concoction (eotp)
+3 Astronomy Homework (eotp)
+3 Cheering Charm (eotp)
+4 Dizzying Workload (eotp)
+4 SMACK! (eotp)
+4 Dobby's Help (cos)
+3 History of Magic, Third Year (eotp)
+3 Alchemy, Third Year (gof)
+3 Divination, Third Year (gof)
+6 Potions (aah)
+6 Charms (aah)
+6 Transfiguration (aah)
+
+//sideboard-1
+3 Moony (eotp)
+3 Stinging Scar (gof)
+3 Dementors on the Lake (eotp)
+3 Troll in the Bathroom (bs)
+3 Disciplinary Transfiguration (gof)
+
+//play-1
+1 Seamus Finnigan (qc)
