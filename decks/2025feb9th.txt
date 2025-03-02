@@ -1,0 +1,32 @@
+//deck-60
+3 Waddiwasi
+3 The Dark Forces: A Guide to Self Protection
+3 The Rise and Fall of the Dark Arts
+4 Transfiguration
+3 Arthur Weasley
+2 Holidays with Hags
+2 Cauldron Shop
+3 Love Potion
+2 Bill Weasley
+2 Broken Item
+3 Brass Scales
+6 Charms
+2 Knut
+3 Lucius' Cane
+2 Neville Longbottom
+2 Ollivanders
+8 Potions
+2 Self-Stirring Cauldron
+3 Sickle
+2 Silver Unicorn Horn
+
+//sideboard-10
+3 The First Triwizard Tournament
+2 Empty Frame
+3 Impersonating Goyle
+2 Gaze Into the Mirror
+3 Confiscated Map
+2 Riding the Centaur
+
+//play-1
+1 Draco Malfoy, Slytherin
