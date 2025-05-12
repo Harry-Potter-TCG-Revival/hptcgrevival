@@ -1,0 +1,31 @@
+//play-1
+1 Draco Malfoy, Slytherin
+
+//-deck-60
+2        Love Potion
+3        Brass Scales
+3        Arthur Weasley
+2        Hannah Abbott
+2        Nearly Headless Nick
+2        Invisibility Potion
+1        Confiscated Map
+2        Lockhart's Hair-Care Potions
+23        Potions
+2        Basilisk Fang
+4        Magical Drafts and Potions
+3        Flobberworm Mucus
+1        Madam Pomfrey
+3        S.P.E.W. Button
+4        The Rise and Fall of the Dark Arts
+1        12 Years in Azkaban
+1        Venomous Tentacular Juice
+1        Professor Severus Snape
+
+//-side-15
+2        Basilisk Fang
+2        Impersonating Goyle
+3        Egyptian Holiday
+1        12 Years in Azkaban
+3        Azkaban
+2        Self-Stirring Cauldron
+2        Through the Arch

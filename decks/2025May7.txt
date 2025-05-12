@@ -1,0 +1,29 @@
+//play-1
+1 Draco Malfoy, Slytherin (da)
+
+//-deck-60
+2 Borrowed Wand
+2 Professor Quirinus Quirrell
+2 Dragon Heart Wand
+4 Wit-Sharpening Potion
+4 Armadillo Bile
+3 Tickled Pear
+2 Nearly Headless Nick
+3 Christmas Feast
+4 Love Potion
+4 Arthur Weasley
+2 Cauldron Shop
+4 Brass Scales
+3 Impersonating Goyle
+2 Self-Stirring Cauldron
+6 Charms
+9 Potions
+4 Divination, Third Year
+
+
+//-side-15
+3 Disciplinary Transfiguration
+3 The First Triwizard Tournament
+3 Voldemort Revealed
+3 Confiscated Map
+3 Riding the Centaur

@@ -1,0 +1,28 @@
+//play-1
+1 Draco Malfoy, Slytherin (da)
+
+//-deck-60
+2 Stairs into Slides (hah)
+2 Depulso (hah)
+3 Enchanted Tables (gof)
+2 Stinging Scar (gof)
+3 Inheriting the Map (poa)
+3 Hogwarts: A History (hah)
+3 A Beginner's Guide to Transfiguration (da)
+2 Madam Pomfrey (aah)
+3 Borrowed Wand (bs)
+4 Broken Item (soh)
+4 Waddiwasi (poa)
+3 A Guide to Advanced Transfiguration (gof)
+4 The Dark Forces: A Guide to Self Protection (gof)
+4 History of Magic, Third Year (eotp)
+9 Transfiguration (aah)
+9 Charms (aah)
+
+//-side-15
+2 Electric Fireplace (gof)
+3 Disciplinary Transfiguration (gof)
+2 Slanderous Article (gof)
+2 Professor Quirinus Quirrell (da)
+3 Transfiguration Test (bs)
+3 Hiding From Snape (bs)

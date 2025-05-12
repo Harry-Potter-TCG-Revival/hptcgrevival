@@ -1,0 +1,34 @@
+//play-1
+1 Professor Sybill Trelawney
+
+//-deck-60
+11 Care of Magical Creatures
+7 Charms
+2 Potions
+3 Herbology, Third Year
+3 Defense Against the Dark Arts, Third Year
+1 Hannah Abbott
+1 Madam Pomfrey
+1 Professor Severus Snape
+1 Full Moon
+4 Unicorn Foals
+4 The Monster Book of Monsters
+4 Cornish Pixie
+1 Hedwig
+1 Slytherin's Basilisk
+4 Permission Form
+4 Depulso
+1 Dragon Heart Wand
+2 Hogwarts: A History
+3 Overloaded Schedule
+1 Shrinking Potion
+1 Venomous Tentacular Juice
+
+//-side-15
+3 In the Stands
+3 Disciplinary Transfiguration
+3 Through the Arch
+2 Argus Filch
+2 Slanderous Article
+1 Mis-Brewed Polyjuice
+1 Trelawney's Prediction

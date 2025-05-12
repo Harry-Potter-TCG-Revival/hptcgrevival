@@ -1,0 +1,31 @@
+//play-1
+1 Professor Severus Snape
+
+//-deck-60
+4 Bill Weasley
+3 Seamus Finnigan
+2 Hannah Abbott
+4 Kitchen House Elves
+4 Colin Creevey
+2 Godric Gryffindor
+2 Cedric Diggory
+4 Draco Malfoy
+2 Griphook
+2 Rita Skeeter
+2 Madam Pomfrey
+2 Professor Quirinus Quirrell
+1 Argus Filch
+2 Lockhart's Hair-Care Potions
+4 The Leaky Cauldron
+4 Entrancing Enchantments
+2 Missing Parchment
+2 Magical Mess Remover
+4 Potions
+8 Charms
+
+//-side-15
+4 Through the Arch
+4 Table Trouble
+5 Transfiguration
+1 Madam Rosmerta
+1 Walden MacNair

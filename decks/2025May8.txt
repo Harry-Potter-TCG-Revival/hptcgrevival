@@ -1,0 +1,33 @@
+//play-1
+1 Draco Malfoy, Slytherin (da)
+
+//-deck-60
+12 Quidditch (aah)
+10 Charms (aah)
+2 Through the Arch (da)
+1 Riding the Centaur (aah)
+2 Gryffindor Steals (poa)
+3 Hogwarts Quidditch Robes (poa)
+2 Christmas Feast (da)
+2 Nimbus Two Thousand (qc)
+2 Enchanted Tables (gof)
+1 Electric Fireplace (gof)
+2 Fumos (bs)
+4 Bumphing (gof)
+1 Zig-Zag (cos)
+2 Fouled! (qc)
+4 Quidditch Through the Ages (da)
+4 Quidditch Teams of Britain and Ireland (gof)
+1 Handbook of Do-It-Yourself Broomcare (poa)
+2 Comet Two Sixty (qc)
+3 Rogue Bludger (cos)
+
+
+//-side-15
+3 Hiding From Snape (bs)
+3 The First Triwizard Tournament (hah)
+2 Electric Fireplace (gof)
+1 Riding the Centaur (aah)
+2 Walden MacNair (eotp)
+2 Bludger in the Stands (da)
+2 Smash! (qc)

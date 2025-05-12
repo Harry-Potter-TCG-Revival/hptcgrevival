@@ -1,0 +1,29 @@
+//play-1
+1 Marcus Flint
+
+//-deck-60
+2 Living Room Explosion (gof)
+4 Disturbed and Dangerous (gof)
+2 The Standard Book of Spells [Grade 1] (da)
+2 Professor Quirinus Quirrell (da)
+2 5 Points from Gryffindor (aah)
+3 Flight of the Fat Lady (poa)
+21 Charms (aah)
+3 Madness of Mr. Crouch (gof)
+3 Purple Firecrackers (aah)
+3 Hogwarts: A History (hah)
+3 Confundus (bs)
+3 Hover Charm (cos)
+3 Borrowed Wand (bs)
+4 Locked In (cos)
+2 Draco Malfoy (bs)
+
+//-side-15
+2 Blocked Barrier (cos)
+2 Detention! (aah)
+2 4 Privet Drive (bs)
+1 Cornelius Fudge (poa)
+2 Flitwick's Inspection (eotp)
+2 The North Tower (poa)
+2 Hiding From Snape (bs)
+2 In the Stands (qc)
