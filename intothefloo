@@ -1,0 +1,323 @@
+<!doctype html>
+ <html>
+<header>
+	<link rel="stylesheet" type="text/css" href="main.css" />
+ 	<link rel="stylesheet" type="text/css" href="footer.css" />
+	<link rel="stylesheet" type="text/css" href="table.css" />
+ 	<link rel="stylesheet" type="text/css" href="footer.css" />
+	<title>Resources</title>
+		<div class="navbar">
+ 			<a href="index.html">Home</a>
+			<a href="newplayers.html">New Players</a>
+ 			<div class="dropdown">
+ 				<button class="dropbtn">Events</button>
+ 			<div class="dropdown-content">
+				<a href="CurrentEvent.html">Current Events</a>
+ 				<a href="gencon.html">GenCon</a>
+ 				<a href="tournamentrules.html">Tournamnet Rules</a>
+ 				<a href="lists.html">B&R, Errata</a>
+ 			</div>
+ 			</div>
+ 			<div class="dropdown">
+ 				<button class="dropbtn">Resources</button>
+ 			<div class="dropdown-content">
+ 				<a href="ResourcesPage.html">Resources</a>
+ 				<a href="decks.html">Deck Lists</a>
+ 				<a href="https://docs.google.com/document/d/14nlmMGUaKFaDvQxvix9bCwHozmtxih9B8CM10mK88Ac/edit">Rule Book</a>
+ 			</div>
+ 			</div>
+			<a href="fr.html"><img src="images/frenchflag.png" alt="french" style="height:1em;"/></a>
+ 			<a href="https://accio.cards" target="_blank">Accio</a>
+ 			<a href="about.html">About</a>
+ 		</div>
+	 <style>
+		 body {
+			 background-image: url('images/firebolt.jpg');
+			 background-repeat: no-repeat;
+			 background-attachment: fixed;
+			 background-size:cover;
+		 }
+	 </style>
+</header>
+	<body>
+		<div style="height: 40px;">
+		<style>
+			img {
+				width: 25px;
+			}
+		</style>
+		</div>
+	<!-- 	<h1>Resources!</h1> -->
+		<div id="page_description">Read through the <a href="https://docs.google.com/document/d/14nlmMGUaKFaDvQxvix9bCwHozmtxih9B8CM10mK88Ac/edit">Comprehensive Rules</a> for a complete guide and rule set for how to play the Harry Potter Trading Card Game.
+		</br>
+		To view official card rulings, visit the individual card pages on <a href="https://accio.cards">Accio</a>. 
+		</br></br>
+		To learn how to play, watch this <a href="https://www.youtube.com/watch?v=m6yPNGBDUbc">tutorial video</a> by community member Zarthbenn.
+	
+		</br>
+		</div>
+
+		<div id="general">
+		<h2>Formats</h2>
+			<p  style="text-align: center;">There are currently two formats to play HPTCG, <strong>Classic</strong> and <strong>Revival</strong>. Please see the differences below.</p>
+
+		<div class="row">
+		<div class="column">
+			<em><strong style="font-size: 20px;">Classic</em></strong>
+			<ul>
+				<li>WOTC Sets (BS, QC, DA, AAH, COS)</li>
+				<li>Rules as left by WOTC</li>
+			</ul>
+		</div>
+		<div class="column">
+			<em><strong style="font-size: 20px;">Revival</em></strong>
+			<ul>
+				<li>WOTC sets (BS, QC, DA, AAH, COS)</li>
+				<li>All Revival sets</li>
+				<li>Banned and Restricted List</li>
+				<li>Updated Rulings and Rulebook</li>
+				<li>Errata List</li>
+				<li>Mulligan</li>
+				<li>Sideboard</li>
+			</ul>
+		</div>
+			</br>
+			</div>
+	</div>
+		
+		<div id="general">
+		<h2>Set Information</h2>
+		<p style="text-align: center;">Please see <a href="https://accio.cards" target="_blank">Accio.cards</a> for a complete card list of each set, as well as specific card rulings and images.</br>
+		Please see the <a href="https://www.pojo.com/harrypotter/ccg/rulings.shtml" target="_blank">Full Rulings</a> FAQ gathered by Pojo.com.
+		</br>
+		<table>
+			<tr>
+				<th>Set</th>
+				<th>Symbol</th>
+				<th>FAQ</th>
+				<th>Release Notes</th>
+				<th>High Defs</th>
+				<th>Print Ready</th>
+			</tr>
+			<tr>
+				<th><a href=" ">Quidditch World Finals</a></th>
+				<th style="width: 40px;"><img src="images/logoQWF.png" alt="QWF Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1ozcyLQmdDezBebCnPRHVLPpdnvt12Av9eEOLFVf0y4o/edit?tab=t.0">QWF FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1cmhZ8CB3qAnCLRXuHHyZkQvatupXdru0EWDMPWTndeI/edit?tab=t.0#heading=h.7d87q4udz6n5">QWF Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/19lI1CuuW6kwRlUZOkA2MJVOUGWypKiQf?usp=sharing">QWF High Definition Cards</a></th>
+				<th><a href=" ">QWF Print Ready Files</a></th>
+			</tr>
+			<tr>
+				<th><a href=" ">Goblet of Fire</a></th>
+				<th style="width: 40px;"><img src="images/logoGOF.png" alt="Goblet of Fire Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1-Ph22_RMhGB6IswZQvFFzlUPia8XTQY8TbrpHTX5gSw/edit">GOF FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1coGxLhEiQ6iRYqQF05JIcvmZJL_togQyWJt_6NFqDTI/edit?usp=drive_link">GOF Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1x9N_iobrWcySRklp0c1TLKS2iJ23g7T-?usp=drive_link">GOF High Definition Cards</a></th>
+				<th><a href="https://drive.google.com/drive/u/1/folders/1LwqMmK329QEpzDwyIEepRgR53wBsyexO">GOF Print Ready Files</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=hah&sortBy=sn&sortOrder=asc&cardView=images">Hogswarts: A History</a></th>
+				<th style="width: 40px;"><img src="images/hah.png" alt="Hogwarts A History Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1PynG3xGaPYlQhrY3yGbJEyTKUuT6VlT0AMJuALnOzL8/edit?usp=sharing">HAH FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1RaNgXtpC4VOtjG0BiP2_8W0on8MT3H-XzXJM1p7IjMs/edit?usp=sharing">HAH Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1KWAFkBotw-3paRDNVG7HiEmTkq8GOnms?usp=sharing">HAH High Definition Cards</a></th>
+				<th><a href="https://drive.google.com/drive/folders/17SxGWjVyht2RrW8Vlr4EKu7UR88QTZR9?usp=share_link">HAH Print Ready Cards</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=eotp&sortBy=sn&sortOrder=asc&cardView=images">Echoes of the Past</a></th>
+				<th style="width: 40px;"><img src="images/eotp.png" alt="Echoes of the Past Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1lzHYyK9e0qfdnLEtJ1p7ZaRkcd1r0nbOGACoRqwqhQU/edit">EOTP FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1JfVQDHKyLAp-jbbzZ1JONE5LbB0q1kwl-9a4ERriPcI/edit#">EOTP Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1X2oX80aqUMWi0p_9qr_vgT3EpbgeyKVX?usp=sharing">EOTP High Definition Cards</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1O4Zl6_cM8cBBYz0NmiUCUwnMnm0uVtA_?usp=sharing">EOTP Print Ready Cards</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=soh&sortBy=sn&sortOrder=asc&cardView=images">Streets of Hogsmeade</a></th>
+				<th style="width: 40px;"><img src="images/logoSOH.png" alt="Streets of Hogsmeade Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1U9Km_31VHVzMOGhguNt4IB6Z7eg92rLbiXpkORJYjEw/edit">SoH FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1-eWMpAKsB_o_qvfR1JutNmb0lf8krnr2FvCX_qZzK4Q/edit">SoH Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1S70dxuYDzSSd37d0rPvZZLZqsXW6SjLA?usp=sharing">SOH High Definition Cards</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1-OW8uljiZJUHN1AeF67O-_skm1TVx4av?usp=share_link">SOH Print Ready Cards</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=poa&sortBy=sn&sortOrder=asc&cardView=images">Prisoner of Azkaban</a></th>
+				<th style="width: 40px;"><img src="images/logoPOA.png" alt="Prisoner of Azkaban Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1pNkIxyyW_hm8-2fZRl0cX3W2VgLnPa2nLPpC8ciFnSM/edit?usp=sharing">POA FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1yaaIhcka2F9ONzPXaKH9YlMxQ8uQiTjH6mWesFjZL5U/edit?usp=sharing">POA Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1xmxyNCLt2yAxXYo1FBipaACt_SEmdq-x?usp=sharing">POA High Definition Cards</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1W6sEGBtdEZ26YUrHQ3QCV0lnHmFKBLGR?usp=sharing">POA Print-Ready Files</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=hos&sortBy=sn&sortOrder=asc&cardView=images">Heir of Slytherin</a></th>
+				<th style="width: 40px;"><img src="images/logoHOS.png" alt="Heir of Slytheirn Set Symbol"></th>
+				<th><a href="https://docs.google.com/document/d/1i1UFIJbKD8g9hs1fd2uQzsdX1U3xWmRMebwxetbEEt8/edit?usp=sharing">HOS FAQ</a></th>
+				<th><a href="https://docs.google.com/document/d/1WYzxHeGXVYlVMiEM2X7rsJeikSHmWcOczRVRB4T0mg4/edit?usp=sharing">HOS Release Notes</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1l8SC-nYS5jRWRXBMxj26dmPvN3mipskk?usp=sharing">HOS High Definition Files</a></th>
+				<th><a href="https://drive.google.com/drive/folders/1FBwCDCzKx-4XqOgSJD4vPM3KrGWhxnHY?usp=sharing">HOS Print-Ready Files</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=cos&sortBy=sn&sortOrder=asc&cardView=images">Chamber of Secrets</a></th>
+				<th style="width: 40px;"><img src="images/logoCOS.png" alt="Chamber of Secrets Set Symbol"></th>
+				<th><a href="https://web.archive.org/web/20051119111731/http://harrypotter.warnerbros.com/wotc/chamber_secrets.htm">COS FAQ</a></th>
+				<th>N/A</th>
+				<th>Coming Soon</th>
+				<th>Coming Soon</th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=aah&sortBy=sn&sortOrder=asc&cardView=images">Adventure at Hogwarts</a></th>
+				<th style="width: 40px;"><img src="images/logoAAH.png" alt="Adventures at Hogwarts Set Symbol"></th>
+				<th><a href="https://web.archive.org/web/20020804012011/http://harrypotter.warnerbros.com/wotc/ahfaq.html">AAH FAQ</a></th>
+				<th>N/A</th>
+				<th>Coming Soon</th>
+				<th>Coming Soon</th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=da&sortBy=sn&sortOrder=asc&cardView=images">Diagon Alley</a></th>
+				<th style="width: 40px;"><img src="images/logoDA.png" alt="Diagon Alley Set Symbol"></th>
+				<th><a href="https://web.archive.org/web/20020808153930/http://www.wizards.com/default.asp?x=harrypotter/diagonalley-faq">DA FAQ</a></th>
+				<th>N/A</th>
+				<th>Coming Soon</th>
+				<th>Coming Soon</th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=qc&sortBy=sn&sortOrder=asc&cardView=images">Quidditch Cup</a></th>
+				<th style="width: 40px;"><img src="images/logoQC.png" alt="Quidditch Cup Set Symbol"></th>
+				<th><a href="https://web.archive.org/web/20011229090025/http://harrypotter.warnerbros.com/wotc/qc_faq.html">QC FAQ</a></th>
+				<th>N/A</th>
+				<th>Coming Soon</th>
+				<th><a href="https://drive.google.com/drive/folders/1AUAY0MywI1gmNCOMIIexE0A__zL69Pyr?usp=sharing">QC Print-Ready Files</a></th>
+			</tr>
+			<tr>
+				<th><a href="https://www.accio.cards/search?searchText=set=bs&sortBy=sn&sortOrder=asc&cardView=images">Base Set</a></th>
+				<th style="width: 40px;"><img src="images/logoBS.png" alt="Base Set Set Symbol"></th>
+				<th>N/A</th>
+				<th>N/A</th>
+				<th><a href="https://drive.google.com/drive/folders/1GorSI_G6_A6ZBw5vVLuHb1mRw6IqyWY9?usp=sharing">BS High Definition Files</a></th>
+				<th><a href=" ">BS Print-Ready Files</a></th>
+			</tr>
+		</table>
+		</br>
+		Other files.
+		</br>
+		</br>
+		<table>
+			<tr>
+				<th><a href="https://drive.google.com/drive/u/1/folders/1nh-61YWFD6bccmqSaFvz4q4d2QvStFQ5">Card backs</a></th>
+				<th><a href="https://drive.google.com/drive/u/1/folders/1JzRtNtPf5MgrYaya73IfTwVR9xa0cW_f">Lessons</a></th>
+			</tr>
+		</table>
+
+			<!--<div class="row">
+				<div class="column">
+				<em><strong style="font-size: 20px;">Wizards of the Coast</em> sets:</strong>
+				<ul>
+					<li>Base Set (BS)</li>
+					<li><a href="https://web.archive.org/web/20011229090025/http://harrypotter.warnerbros.com/wotc/qc_faq.html" target="_blank">Quidditch Cup FAQs</a></li>
+					<li><a href="https://web.archive.org/web/20020808153930/http://www.wizards.com/default.asp?x=harrypotter/diagonalley-faq" target="_blank">Diagon Alley FAQs</a></li>
+					<li><a href="https://web.archive.org/web/20020804012011/http://harrypotter.warnerbros.com/wotc/ahfaq.html" target="_blank">Adventures at Hogwarts FAQs</a></li>
+					<li><a href="https://web.archive.org/web/20051119111731/http://harrypotter.warnerbros.com/wotc/chamber_secrets.html" target="_blank">Chamber of Secrets</a></li>
+				</ul>
+				</div>
+				<div class="column">
+				<em><strong style="font-size: 20px;">HPTCG Revival</em> sets:</strong>
+				<ul>
+					<li><a href="https://drive.google.com/drive/folders/1tt12wlgBABid-W7_lbtrhdQB9BEovmoC?usp=sharing" target="_blank">Heir of Slytherin</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1NHOZ39oh4SihwIs6bmNEMtPuHgFpVUVx?usp=sharing" target="_blank">Prisoner of Azkaban</a></li>
+				</ul>
+				</div> 
+			</div>-->
+		</p>
+		</div>
+
+
+<div id="general">
+		<h2>Non-English Language Cards</h2>
+		<p style="text-align: center;">Thank you to the translators for helping to create these cards!</br>If you would like to help with translations, please email harrypottertcgr@gmail.com.
+		</br>
+		<table>
+			<tr>
+				<th>Set</th>
+				<th>French</th>
+				<th>Italian</th>
+				<th>Spanish</th>
+			</tr>
+			<tr>
+				<th>Hogwarts: A History</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+			</tr>
+			<tr>
+				<th>Echoes of the Past</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+			</tr>
+			<tr>
+				<th>Streets of Hogsmeade</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+			</tr>
+			<tr>
+				<th>Prisoner of Azkaban</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+			</tr>
+			<tr>
+				<th>Heir of Slytherin</th>
+				<th><a href="https://drive.google.com/drive/folders/1T4RxdUt-qIYhFqIZqjGBL6tvZxRPC_Bm?usp=drive_link">HOS French</a></th>
+				<th>Coming Soon!</th>
+				<th>Coming Soon!</th>
+			</tr>
+		</table>
+		</br>
+		</p>
+		</div>
+
+		
+	<div class="flex-announcement-element">
+	<div class='flex-childevents-element'>
+		<h2>Other resources.</h2>
+			<p>
+			<!--do we put FAQs linked here or leave on Pojo?-->
+			Visit <a href="https://www.pojo.com/harrypotter/ccg/rulings.shtml">Pojo</a> for original <em>Wizards of the Coast</em> rulings.</br>
+			Use the complete <a href="https://docs.google.com/spreadsheets/d/1_5qcEPEgRqDMrbhx6Z5hu_VIp37-nt8Lvx9bfr1A7eE/edit?usp=sharing" target="_blank">Card list</a> to keep track of cards in your collection and cards you are looking for.</br>
+			Bring this <a href="https://drive.google.com/file/d/1x4jPTic5J28hr13za2MynsX7Aq5LCKFG/view?usp=sharing" target="_blank">fillable deck list</a> to all tournaments to submit your deck.</br>
+			Here are the <a href="https://docs.google.com/spreadsheets/d/19_7RckY2t1vlsJwkG7EC54quhULAhiiyDONtqU_zi08/edit#gid=0">pre-constructed decks</a> released by <em>Wizards of the Coast</em>.</br>
+			Here is the original <em>Wizards of the Coast</em> <a href="https://pottertradingcardgame.webs.com/official-rulebook">rulebook</a>.</br>
+	</div>
+	<div class='flex-childevents-element'>
+		<h2>Play Online</h2>
+		<p style="text-align: center;">There are opportunities to play in person and online. Here are some methods to play online:
+		<ul style="text-align: center;">
+			<li><a href="https://untap.in" target="_blank">Untap</a></li>
+			<li><a href="https://www.lackeyccg.com" target="_blank">Lackey CCG</a> (HPTCG Revival <a href="https://docs.google.com/document/d/1ZoJVENl0aL9IHn8yc3aF0lHswrxNxJUOhjNTje_u2_4/edit?usp=sharing" target="_blank">plugin</a>)</li>
+			<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3302236626">Table Top Simulator HPTCGR Plugin</a></li>
+		</ul>
+		</p>
+	</div>
+	</div>
+
+</br>
+</br>
+</br>
+	</body>
+</br>
+
+<footer>
+		<div id="footer">
+			<div class="logo">Harry Potter TCG Revival
+			</div>
+		<!--icon library from w3schools-->
+			<div class="socials">
+				<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+				<a href="https://www.facebook.com/groups/harrypottertcg" class="fab fa-facebook" target="_blank"></a>
+				<a href="https://www.instagram.com/harrypottertcg/?hl=en" class="fab fa-instagram" target="_blank"></a>
+				<a href="https://twitter.com/harrypottertcg" class="fab fa-twitter" target="_blank"></a>
+				<a href="https://discord.gg/EKJSXBC" class="fab fa-discord" target="_blank"></a>
+			</div>
+		</div>
+</footer>
+ </html>
