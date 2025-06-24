@@ -69,7 +69,9 @@ iframe {
 
 
 
-/* for the horizontal nav buttons */
+/****************** for the horizontal nav buttons *******************/
+/****************** for the horizontal nav buttons *******************/
+/****************** for the horizontal nav buttons *******************/
 nav {
 	list-style-type: none;
 	padding-left: 0px;
@@ -115,7 +117,10 @@ nav > ul > li:hover .submenu {
 	width: 200px;
 }
 
-/* submenu styles */
+/****************** sub menu styles *******************/
+/****************** sub menu styles *******************/
+/****************** sub menu styles *******************/
+
 ul.submenu {
 	position:  absolute; top: 43px; left: 0px;
 	background-color: black;
