@@ -1,0 +1,27 @@
+//deck
+4 Care of Magical Creatures
+3 Transfiguration
+3 Charms
+4 Ancient Runes, Third Year
+4 Defense Against the Dark Arts, Third Year
+4 History of Magic, Third Year
+4 Winky
+4 Rubeus Hagrid
+4 Vanishing Step
+4 Blood Pops
+4 Magical Mishap
+4 Tresspasser in the Riddle House
+2 Trelawny Reading
+4 Fizzing Whizbees
+4 Sandstone Gargoyle
+4 Baby Dragon
+
+//sideboard
+3 Barty Crouch
+4 Slanderous Article
+2 Empty Classroom
+3 Gone!
+3 Apparate
+
+//starter
+Professor Sybill Trelawney
