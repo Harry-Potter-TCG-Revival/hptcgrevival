@@ -1,0 +1,31 @@
+//deck
+3 Picking on Neville
+3 Stairs into Slides
+2 Wormtail
+4 Spiral Dive
+2 Campfire Stories
+4 Blackboard Advertisements
+4 Omnioculars
+2 Gringotts
+2 Essential Knowledge Test
+3 Quick Camp Kit
+3 The Standard Book of Spells [Grade 1]
+3 Quidditch Through the Ages
+3 Borrowed Tent
+4 Arithmancy, Third Year
+4 History of Magic, Third Year
+5 Charms
+5 Transfiguration
+4 Quidditch
+
+//sideboard
+2 Through the Arch
+2 Smash!
+2 Transfiguration Test
+2 Dementors on the Lake
+2 Pep Talk
+2 Filch, Hogwarts Caretaker
+3 Ballooning Aunt
+
+//starter
+Weatherby
