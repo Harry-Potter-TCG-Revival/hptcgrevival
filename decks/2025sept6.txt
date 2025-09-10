@@ -1,0 +1,33 @@
+//deck
+3 Reptile House
+1 Argus Filch
+1 Griphook
+6 Potions
+6 Transfiguration
+3 Charms
+2 Divination, Third Year
+2 Alchemy, Third Year
+2 History of Magic, Third Year
+4 Picking on Neville
+4 Gringotts
+4 Omnioculars
+4 Lost Notes
+4 Resentful Goodbye
+2 Wolfsbane Potion
+3 Potions Project
+1 Table Trouble
+4 Rennervate
+3 Diffindo
+1 Venomous Tentacular Juice
+
+//sideboard
+2 Argus Filch
+3 Walden MacNair
+2 Toe Biter
+3 Ballooning Aunt
+2 Table Trouble
+2 Cancelled Match
+1 Diffindo
+
+//starter
+Professor Flitwick, Charms Master
