@@ -1,0 +1,33 @@
+//deck
+7 Care of Magical Creatures (aah)
+12 Transfiguration (aah)
+1 Potions (aah)
+3 Marble Gargoyle (aah)
+3 Double-Ended Newt (eotp)
+4 Dementor (poa)
+4 I Solemnly Swear (poa)
+3 Mis-Brewed Polyjuice (hos)
+1 Madam Rosmerta (soh)
+3 Disciplinary Transfiguration (gof)
+1 Table Trouble (da)
+1 Hedwig (da)
+3 Vanishing Cabinet (cos)
+3 Inheriting the Map (poa)
+4 Picking on Neville (da)
+4 Hermione's Time Turner (eotp)
+2 Forbidden Corridor (aah)
+1 Full Moon (eotp)
+
+//sideboard
+1 Professor Severus Snape (bs)
+1 Madam Pomfrey (aah)
+1 Crookshanks (eotp)
+2 Professor Flitwick, Charms Master (eotp)
+3 Chamber of Secrets (hos)
+1 Prof. Minerva McGonagall (qc)
+1 Forbidden Corridor (aah)
+1 Venomous Tentacular Juice (cos)
+4 Foe Glass (gof)
+
+//starter
+1 Professor Rubeus Hagrid (poa)
