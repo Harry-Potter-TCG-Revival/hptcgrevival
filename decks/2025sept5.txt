@@ -1,0 +1,40 @@
+//deck
+1 Cedric Diggory
+1 Hannah Abbott
+1 Professor Severus Snape
+1 Ginny, Youngest Weasley
+1 Seamus Finnigan
+3 Nearly Headless Nick
+1 Bill Weasley
+3 Touring the Tents
+2 Potions Dungeon
+3 Lockhart's Hair-Care Potions
+20 Potions
+3 Firewhisky
+1 Omnioculars
+3 Wit-Sharpening Potion
+3 Ginger Root
+4 Unfogging the Future
+4 Muggle Artifact
+3 Scarab Beetle
+2 Switching Spell
+
+//sideboard
+1 Winky
+1 Madam Pomfrey
+1 Ludo Bagman
+1 Barty Crouch
+1 Madam Rosmerta
+1 Cornelius Fudge
+1 Argus Filch
+1 Touring the Tents
+1 Empty Classroom
+1 Knight Bus Ride
+1 Switching Spell
+1 Interrogation
+1 S.P.E.W. Button
+1 Hanging Shamrocks
+1 Omnioculars
+
+//starter
+1 Prof. Minerva McGonagall
