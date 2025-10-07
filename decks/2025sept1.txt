@@ -32,5 +32,3 @@
 
 //starter
 Prof. Minerva McGonagall
-
-<img src="deckimages/2025sept1.png" alt="image1"><img src="deckimages/2025sept11.png" alt="image2">
