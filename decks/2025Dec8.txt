@@ -1,0 +1,25 @@
+//starter
+1 Harry, Young Marauder (poa)
+
+//deck
+2 Foe Glass (gof)
+4 Confronting Black (eotp)
+4 Depulso (hah)
+4 Sirius's Letter (eotp)
+4 Mischief Managed (poa)
+4 I Solemnly Swear (poa)
+4 Moony (eotp)
+4 Crookshanks' Aid (eotp)
+4 Wormtail (eotp)
+4 The Marauder's Legacy (eotp)
+4 History of Magic, Third Year (eotp)
+9 Charms (aah)
+9 Transfiguration (aah)
+
+//side
+2 Invisibility Section (cos)
+3 Through the Arch (da)
+2 Argus Filch (aah)
+3 Drawing the Sword (hos)
+3 Table Trouble (da)
+2 Foe Glass (gof)
