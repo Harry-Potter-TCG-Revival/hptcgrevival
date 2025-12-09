@@ -3,7 +3,7 @@
 1 Sir Cadogan (poa)
 
 //deck
-2 Drawing the Sword (hos)
+3 Drawing the Sword (hos)
 2 12 Years in Azkaban (poa)
 2 Borrowed Tent (qwf)
 2 Firewhisky (qwf)
