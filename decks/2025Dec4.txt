@@ -1,0 +1,28 @@
+//starter
+1 Professor Rubeus Hagrid (poa)
+
+//deck
+4 Disciplinary Transfiguration (gof)
+1 Campfire Stories (qwf)
+4 Marble Gargoyle (aah)
+4 Mice to Snuffboxes (qc)
+4 Banned Item List (gof)
+4 Lost Notes (bs)
+4 Resentful Goodbye (gof)
+4 Picking on Neville (da)
+4 Hermione's Time Turner (eotp)
+4 Forbidden Corridor (aah)
+4 I Solemnly Swear (poa)
+1 Potions (aah)
+1 Charms (aah)
+3 Care of Magical Creatures (aah)
+13 Transfiguration (aah)
+1 Madam Pomfrey (aah)
+
+//side
+4 Argus Filch (aah)
+1 Full Moon (eotp)
+1 Madam Pomfrey (aah)
+1 Hedwig (da)
+4 Mis-Brewed Polyjuice (hos)
+4 Dementor (poa)
