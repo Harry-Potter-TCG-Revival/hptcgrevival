@@ -1,0 +1,30 @@
+//starter
+Alastor Moody
+
+//deck
+1 Prof. Flitwick, Charms Master
+4 Abraxan
+4 Gifts of Gold
+4 Leprechaun
+2 The Standard Book of Spells, Grade 4
+3 Mysterious Egg
+3 Depulso
+3 Halloween Feast
+1 Hermes
+4 Dizzying Workload
+3 Billywig
+4 Tresspasser in the Riddle House
+3 History of Magic, Third Year
+4 Ancient Runes, Third Year
+4 Defense Against the Dark Arts, Third Year
+7 Care of Magical Creatures
+6 Charms
+
+//side
+2 Prof. Flitwick, Charms Master
+4 Hover Charm
+2 Slytherin's Basilisk
+4 Slanderous Article
+1 Philosopher's Stone
+1 Ollivanders
+1 Transfiguration
