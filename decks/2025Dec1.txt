@@ -1,0 +1,26 @@
+//starter
+1 Hermione, S.P.E.W. Founder (gof)
+1 Sir Cadogan (poa)
+
+//deck
+2 Drawing the Sword (hos)
+2 12 Years in Azkaban (poa)
+2 Borrowed Tent (qwf)
+2 Firewhisky (qwf)
+4 Campfire Stories (qwf)
+6 Charms (aah)
+9 Potions (aah)
+9 Transfiguration (aah)
+2 Depulso (hah)
+4 Floo Powder (cos)
+4 Foe Glass (gof)
+4 Azkaban (poa)
+4 A Beginner's Guide to Transfiguration (da)
+4 The Standard Book of Spells [Grade 1] (da)
+
+//side
+3 Unplottable (gof)
+2 12 Years in Azkaban (poa)
+4 Omnioculars (qwf)
+4 Through the Arch (da)
+2 Drawing the Sword (hos)
