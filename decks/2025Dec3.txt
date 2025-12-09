@@ -1,0 +1,27 @@
+//starter
+Ludo Bagman
+
+//deck
+3 Campfire Stories (qwf)
+4 Cannon Pride (qwf)
+10 Charms (aah)
+3 Delight of the Death Eaters (qwf)
+4 Gifts of Gold (qwf)
+2 Griphook (da)
+2 Hannah Abbott (bs)
+3 Hover Charm (cos)
+4 Lantern Lit Trail (qwf)
+2 Madam Rosmerta (soh)
+12 Potions (aah)
+2 Professor Quirinus Quirrell (da)
+4 Through the Floo (cos)
+1 Venomous Tentacular Juice (cos)
+4 Winky's Empty Seat (qwf)
+
+//side
+3 Bundimun Ooze (cos)
+2 Godric Gryffindor (hah)
+3 Impersonating Goyle (cos)
+2 Mis-Brewed Polyjuice (hos)
+3 Tents Ablaze (qwf)
+2 Wizard Robes (qwf)
