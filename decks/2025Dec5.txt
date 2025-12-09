@@ -1,0 +1,28 @@
+//starter
+Fred & George Weasley
+
+//deck
+2 Pep Talk
+4 Locked In
+4 Through the Arch
+13 Care of Magical Creatures
+5 Transfiguration
+4 Ancient Runes, Third Year
+4 Baby Acromantula
+4 Cornish Pixie
+4 Prickly Porcupine
+4 Black Bat
+4 Stairs into Slides
+3 Sandstone Gargoyle
+2 Hedwig
+1 Table Trouble
+2 Drawing the Sword
+
+//side
+3 Empty Classroom
+2 Table Trouble
+2 Overhearing a Conversation
+2 Drawing the Sword
+2 Pep Talk
+2 The First Triwizard Tournament
+2 Marble Gargoyle
