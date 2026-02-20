@@ -1,0 +1,24 @@
+//starter
+Lynch Irish Seeker
+
+//deck
+4 Sharp Eyed Seeker (qwf)
+4 Quidditch Teams of Britain and Ireland (gof)
+3 Transfiguration (aah)
+4 Turbulent Flight (gof)
+22 Quidditch (aah)
+2 Flying Laps (cos)
+4 Out of Control (qc)
+2 Wronski Feint (qwf)
+4 Fouled! (qc)
+4 Searching for the Snitch (qc)
+4 Pre-Match Handshake (hos)
+3 Quidditch Pitch (aah)
+
+//sideboard
+1 Quidditch Pitch (aah)
+2 Bulgarian Fans (qwf)
+2 Vanishing Referee (da)
+2 Rain of Bludgers (qwf)
+4 Smash! (qc)
+4 Prof. Flitwick, Charms Master (eotp)
