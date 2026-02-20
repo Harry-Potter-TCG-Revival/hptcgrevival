@@ -1,0 +1,31 @@
+//starter
+Prof. Sybill Trelawney
+
+//deck
+4 Inter-House Final
+4 Three-Month-Long Match
+4 Searching for the Snitch
+2 Marking the Seeker
+3 Butterbeer
+3 Fouled!
+2 Unfogging the Future
+2 Hogwarts Pipes
+2 Break with a Banshee
+3 Zig-Zag
+4 No Hands
+2 Quaffle
+2 Catch the Snitch
+1 Swallowed Snitch
+2 12 Years in Azkaban
+2 Delight of the Death Eaters
+7 Quidditch
+7 Potions
+4 Muggle Studies, Third Year
+
+//sideboard
+2 Through the Arch
+1 Argus Filch
+2 Pep Talk
+1 Egyptian Holiday
+2 Hagrid Needs Help
+2 Mis-Brewed Polyjuice
