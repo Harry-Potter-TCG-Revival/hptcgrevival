@@ -1,0 +1,28 @@
+//starter
+Weatherby
+
+//deck
+2 Professor Rubeus Hagrid
+4 Marble Gargoyle
+3 Dog Bite
+3 Owl Post
+3 Veela
+2 Welsh Green Dragon
+4 Defense Against the Dark Arts, Third Year
+5 Charms
+12 Care of Magical Creatures
+3 Resurgence of the Dark Mark
+3 Ron the Brave
+4 The Weasley Twins
+3 Pep Talk
+3 Ginny, Youngest Weasley
+3 Deletrius
+3 Through the Arch
+
+//sideboard
+3 Riding the Centaur
+2 Fluffy
+2 Hiding From Snape
+3 Madam Pomfrey
+3 Harry Hunting
+2 Locked In
