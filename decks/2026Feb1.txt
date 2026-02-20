@@ -1,0 +1,23 @@
+//starter
+Lynch, Irish Seeker
+
+//deck
+4 Pre-Match Handshake (hos)
+3 Searching for the Snitch (qc)
+4 Fouled! (qc)
+4 Star Charts (eotp)
+4 Catching Apples (cos)
+4 Quidditch Teams of Britain and Ireland (gof)
+4 Slytherin Steals (cos)
+4 Turbulent Flight (gof)
+3 Cobbing (qc)
+3 Twirl (cos)
+2 Rain of Bludgers (qwf)
+4 Transfiguration (aah)
+17 Quidditch (aah)
+
+//sideboard
+4 Prof. Flitwick, Charms Master (eotp)
+4 Bludger in the Stands (da)
+4 Quidditch Pitch (aah)
+3 Stooging Penalty (hah)
