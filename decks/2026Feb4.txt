@@ -1,0 +1,28 @@
+//starter
+Albus Dumbledore (aah)
+
+//deck
+13 Quidditch (aah)
+1 Arithmancy, Third Year (eotp)
+8 Charms (aah)
+3 Electric Fireplace (gof)
+2 Support Banner (qc)
+2 Hogwarts Quidditch Robes (poa)
+3 Cobbing (qc)
+4 Gryffindor Steals (poa)
+4 Fouled! (qc)
+4 Distracted Referee (qwf)
+4 Diversion! (qwf)
+1 Loop-the-Loops (aah)
+4 Patronus (eotp)
+2 Veela Fireballs (qwf)
+3 Depulso (hah)
+2 Through the Arch (da)
+
+//sideboard
+1 Ireland Scores! (qwf)
+2 Fumos (bs)
+4 Bludger in the Stands (da)
+2 Through the Arch (da)
+4 Resurgence of the Dark Mark (gof)
+2 In the Stands (qc)
