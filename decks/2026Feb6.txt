@@ -1,0 +1,29 @@
+//starter
+1 Draco Malfoy, Slytherin (da)
+
+//deck
+2 Madam Rosmerta (soh)
+2 Azkaban (poa)
+4 Campfire Stories (qwf)
+2 12 Years in Azkaban (poa)
+4 Depulso (hah)
+4 Winky's Empty Seat (qwf)
+2 Delight of the Death Eaters (qwf)
+3 Enchanted Tables (gof)
+3 S.P.E.W. Button (gof)
+4 Magical Drafts and Potions (da)
+4 Wizard's Desk (eotp)
+3 Borrowed Wand (bs)
+2 Photo Album (aah)
+3 Quick Camp Kit (qwf)
+4 Divination, Third Year (gof)
+7 Potions (aah)
+7 Charms (aah)
+
+//sideboard
+3 Fumos (bs)
+2 Basilisk Fang (hos)
+3 Christmas Feast (da)
+2 Unplottable (gof)
+2 Stinging Scar (gof)
+3 Through the Arch (da)
