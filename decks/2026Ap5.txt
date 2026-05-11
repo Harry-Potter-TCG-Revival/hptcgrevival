@@ -1,0 +1,30 @@
+//starter
+1 Armando Dippet (hos)
+
+//deck
+2 Lockhart's Hair-Care Potions (cos)
+3 Colin Creevey (cos)
+3 Out of Bounds 3rd Floor (lm1)
+3 Godric Gryffindor (hah)
+4 Kitchen House Elves (gof)
+2 Griphook (da)
+1 Professor Quirinus Quirrell (da)
+3 Hannah Abbott (bs)
+4 Moaning Myrtle (hos)
+4 Bill Weasley (gof)
+3 Magical Mess Remover (cos)
+3 Rita Skeeter (gof)
+4 Ron Weasley (bs)
+4 Bloody Baron (lm1)
+3 Professor Severus Snape (bs)
+4 Divination, Third Year (gof)
+5 Potions (aah)
+5 Charms (aah)
+
+//sideboard
+1 Professor Quirinus Quirrell (da)
+3 Through the Arch (da)
+3 Zograf, Bulgarian Keeper (qwf)
+2 Walden MacNair (eotp)
+2 Neville Longbottom (qc)
+4 Moste Potente Potions (lm1)
