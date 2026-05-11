@@ -1,0 +1,24 @@
+//starter
+Marcus Flint
+
+//deck
+1 Argus Filch
+2 Professor Quirinus Quirrell
+3 The Standard Book of Spells [Grade 3]
+3 Madness of Mr. Crouch
+4 Locked In
+3 4 Privet Drive
+3 Hover Charm
+4 Confundus
+3 Purple Firecrackers
+3 Borrowed Wand
+3 Hogwarts: A History
+3 Out of Bounds 3rd Floor
+25 Charms
+
+//sideboard
+3 Patronus
+3 Living Room Explosion
+3 Slanderous Article
+3 In the Stands
+3 Hiding From Snape
