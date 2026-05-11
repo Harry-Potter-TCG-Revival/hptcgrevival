@@ -1,0 +1,26 @@
+//starter
+1 Colin Creevey (cos)
+
+//deck
+4 Potions (aah)
+4 Muggle Studies, Third Year (eotp)
+5 Quidditch (aah)
+5 Charms (aah)
+4 Wizard's Desk (eotp)
+4 Determined Training (eotp)
+4 Defensive Flying (gof)
+4 Quaffle (hos)
+4 World Cup Tickets (gof)
+4 Lockhart's Hair-Care Potions (cos)
+4 The Leaky Cauldron (da)
+4 Kitchen House Elves (gof)
+2 Godric Gryffindor (hah)
+2 Madam Pomfrey (aah)
+2 Igor Karkaroff (gof)
+4 Inter-House Final (eotp)
+
+//sideboard
+3 Deletrius (qwf)
+4 Walden MacNair (eotp)
+4 Neville Longbottom (qc)
+4 Zograf, Bulgarian Keeper (qwf)
