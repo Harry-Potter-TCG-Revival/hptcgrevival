@@ -1,0 +1,22 @@
+//starter
+1 Professor Flitwick, Charms Master
+
+//deck
+2 Arithmancy, Third Year
+2 History of Magic, Third Year
+7 Transfiguration
+7 Quidditch
+4 Charms
+4 Sorting Ceremony
+4 Bravado
+4 Dizzying Workload
+3 SMACK!
+4 Three Turns
+3 Inside the Tent
+4 Rain of Bludgers
+2 Alley Blast
+1 Bulgaria Scores
+3 Victory Party
+3 Astronomy Homework
+3 Fire Omens
+
