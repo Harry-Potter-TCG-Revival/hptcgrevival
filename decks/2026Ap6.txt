@@ -1,0 +1,27 @@
+//starter
+1 Weatherby
+
+//deck
+
+4 Broken Item
+3 Rita Skeeter
+4 Through the Arch
+4 Inheriting the Map
+4 Ginny, Youngest Weasley
+4 Weasley's Grandfather Clock
+4 Arthur Weasley
+3 Bill Weasley
+3 Ron, Youngest Brother
+3 Ron's Knightly Protection
+4 Alchemy, Third Year
+4 Potions Project
+8 Potions
+8 Transfiguration
+
+//sideboard
+
+4 Pep Talk
+3 Riding the Centaur
+2 Table Trouble
+3 First to Rise, First to Die
+3 Late Night Patrol
