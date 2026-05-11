@@ -1,0 +1,26 @@
+//starter
+Prof. Minerva McGonagall
+
+//deck
+2 Hermione Granger
+2 Harry Potter
+2 Ron Weasley
+2 Campfire Stories
+2 Colour-Changing Ink
+2 A Beginner's Guide to Transfiguration
+20 Charms
+5 Transfiguration
+3 Chocolate Frogs
+3 Gifts of Gold
+4 Winky's Empty Seat
+4 Cannon Pride
+3 Gringotts Vault Key
+4 Exploding Charm
+2 Bagman's Gamble
+
+//sideboard
+2 Gryffindor Common Room
+2 Colin Creevey
+2 Godric Gryffindor
+2 Detention! 
+3 Perfumed Smoke
