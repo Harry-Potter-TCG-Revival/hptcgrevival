@@ -1,0 +1,30 @@
+//play-1
+1 Draco Malfoy, Slytherin (da)
+
+//deck-1
+11 Quidditch (aah)
+9 Transfiguration (aah)
+3 Through the Arch (da)
+2 Inheriting the Map (poa)
+2 Stairs into Slides (hah)
+2 Caught! (cos)
+2 Turbulent Flight (gof)
+1 Rain of Bludgers (qwf)
+4 Bumphing (gof)
+2 Blackboard Advertisements (qwf)
+1 Zig-Zag (cos)
+2 Comet Two Sixty (qc)
+4 Hogwarts Quidditch Robes (poa)
+2 Broomstick Servicing Kit (qwf)
+4 Quidditch Through the Ages (da)
+2 Flying with the Cannons (qwf)
+4 Quidditch Teams of Britain and Ireland (gof)
+3 Child's Broom (qwf)
+
+//sideboard-1
+1 Through the Arch (da)
+4 Hiding From Snape (bs)
+3 The First Triwizard Tournament (hah)
+2 Argus Filch (aah)
+2 Walden MacNair (eotp)
+3 Transfiguration Test (bs)
