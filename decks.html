@@ -48,7 +48,7 @@
         <div style="height: 40px;"></div>
 			
         <div id="page_description" style="width: 75%;">
-        <h2>These are community submitted Revival decks. For Classic decks, see the bottom of this page.</h2></br>
+        <h2>These are community submitted Revival decks. For Classic decks, see the bottom of this page.</h2>
 		You can sort the table by any of the headers by clicking on the header, and you'll find the deck list by clicking on the deck title.
        
         <script src="table.js"></script>
@@ -1814,6 +1814,17 @@
 			<h2>These are community-submitted Classic decks using only the original 5 sets of the game.</h2>
 		<table id="deckTable">
             <tr>
+                <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:--> 
+                <th onclick="sortTable(0)" style="width:300px">Starting Character</th>
+                <th onclick="sortTable(1)" style="width:350px">Deck Name</th>
+				<th onclick="sortTable(2)" style="width:50px">Lesson</th>
+				<th onclick="sortTable(3)" style="width:50px">Deck List</th>
+                <th onclick="sortTable(4)" style="width:75px">Visual View</th>
+                <th onclick="sortTable(5)" style="width:75px">Event</th>
+                <th onclick="sortTable(6)" style="width:75px">Set</th>
+				<th onclick="sortTable(7)" style="width:175px">Contributor</th>
+            </tr>
+			<tr>
                 <td>Draco Malfoy (BS)</td>
                 <td>Malfoy Creature Aggro</td>
 				<td><img src="images/lessonf.png" style="width:20px"><img src="images/lessont.png" style="width:20px"></td>
