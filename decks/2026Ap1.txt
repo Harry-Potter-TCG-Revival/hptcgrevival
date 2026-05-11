@@ -1,0 +1,28 @@
+/starter
+1 Cadogans Dark Secret ,Staring Azkaban
+
+
+//deck-1
+2 First to Rise, First to Die (lm1)
+2 Wormtail's Torture (gof)
+2 Delight of the Death Eaters (qwf)
+3 The Dark Mark (qwf)
+2 Crookshanks (eotp)
+12 Potions (aah)
+10 Care of Magical Creatures (aah)
+4 Demonstration Spiders (gof)
+2 Full Moon (eotp)
+2 12 Years in Azkaban (poa)
+4 Azkaban (poa)
+3 Double-Ended Newt (eotp)
+4 Black Bat (aah)
+4 Fantastic Beasts & Where to Find Them (da)
+3 Magical Drafts and Potions (da)
+
+//sideboard-1
+2 First to Rise, First to Die (lm1)
+4 Aurors Arrive (qwf)
+2 Delight of the Death Eaters (qwf)
+2 Caught by Dementors (eotp)
+2 Tents Ablaze (qwf)
+3 Dementor Swarm (eotp)
