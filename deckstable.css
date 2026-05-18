@@ -20,7 +20,7 @@
 #deckTable th, #myTable td {
   text-align: center; /* Center-align text */
   padding: 12px; /* Add padding */
-  background-color: light-blue /* set table header to light blue */
+  background-color: MediumSeaGreen /* set table header */
 }
 
 #deckTable tr {
