@@ -7,11 +7,11 @@ const headerHTML = `
 	<div class="navbar">
  			<a href="index.html">Home</a>
 			<a href="newplayers.html">New Players</a>
+			<a href="gencon.html">GenCon</a>
  			<div class="dropdown">
  				<button class="dropbtn">Events</button>
  			<div class="dropdown-content">
 				<a href="CurrentEvent.html">Current Events</a>
- 				<a href="gencon.html">GenCon</a>
  				<a href="tournamentrules.html">Tournamnet Rules</a>
  				<a href="lists.html">B&R, Errata</a>
  			</div>
