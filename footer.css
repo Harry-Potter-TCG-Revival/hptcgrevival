@@ -27,6 +27,31 @@ https://stackoverflow.com/questions/55383316/font-awesome-discord-icon-wont-show
 }
 
 /*This is formatting for right and left aligning the footer*/
+.footer-container {
+  display: flex; /* Enables flexbox layout */
+  justify-content: space-between; /* Spreads items across the width */
+  align-items: center; /* Vertically aligns items in the middle */
+  width: 100%;
+}
+
+.footer-item {
+  flex: 1; /* Gives each item 1/3 of the total width */
+}
+
+.left {
+  text-align: left; /* Aligns content inside to the left */
+}
+
+.center {
+  text-align: center; /* Aligns content inside to the center */
+}
+
+.right {
+  text-align: right; /* Aligns content inside to the right */
+}
+
+
+
 .logo {
   text-align: left;
   float: left;
