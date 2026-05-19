@@ -28,15 +28,6 @@ const headerHTML = `
 			<a href="fr.html"><img src="images/frenchflag.png" alt="french" style="height:1em;"/></a>
  			<a href="https://accio.cards" target="_blank">Accio</a>
  			<a href="about.html">About</a>
- 		</div>
-	 <style>
-		 body {
-			 background-image: url('images/pitchbackground.png');
-			 background-repeat: no-repeat;
-			 background-attachment: fixed;
-			 background-size:cover;
-		 }
-	 </style>
- 
+ 		</div> 
 `;
 document.getElementById('header-placeholder').innerHTML = headerHTML;
